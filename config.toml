@@ -2,3 +2,6 @@ baseURL = "https://homebrewbeer.netlify.app"
 languageCode = "en-us"
 title = "Home Brew Beer"
 theme = "ananke"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
