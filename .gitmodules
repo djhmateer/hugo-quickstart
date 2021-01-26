@@ -1,3 +1,9 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/Blonde"]
+	path = themes/Blonde
+	url = https://github.com/opera7133/Blonde.git
+[submodule "themes/bento"]
+	path = themes/bento
+	url = https://github.com/leonardofaria/bento.git
