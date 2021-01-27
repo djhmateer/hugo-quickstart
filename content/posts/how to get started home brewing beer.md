@@ -8,31 +8,41 @@ draft: false
 
 I found an excellent [YouTube Video - making beer from kits](https://www.youtube.com/watch?v=QfswLKBAwqY&feature=emb_imp_woyt) by the guys at [brewuk.co.uk](https://www.brewuk.co.uk/beerkits/beer/woodfordes-microbrewery.html). 
 
-After not having a reply from an email I sent (Greg did reply promptly from their online chat thanks!) I ended up buying the same kit from [https://www.the-home-brew-shop.co.uk/](https://www.the-home-brew-shop.co.uk/) who did answer their emails with great customer service.
+I ended up buying the same kit from [https://www.the-home-brew-shop.co.uk/](https://www.the-home-brew-shop.co.uk/) because they had faster customer service (brewuk didn't respond to an initial email)
+
+[![All kit](/images/allkit.jpg "all kit")](/images/allkit.jpg)
 
 [Starter Kit: Woodfordes Wherry Microbrewery from the-home-brew-shop](https://www.the-home-brew-shop.co.uk/acatalog/Woodfords_Wherry_Starter_Kit.html) for £72 and 10 extra CO2 bottles for an extra £5.
 
-It arrived after 4 or 5 days.
+This is one of the most popular starting kits which is a classic bitter of around 4-5%
+
 
 ## Equipment
 
-- Fermentation bucket
-- Pressure barrel
+- Fermentation bucket (on the right above)
+- Pressure barrel (on the left)
+- Vent cap - there are 2, we only need the one with a CO2 brass thread
+- Black CO2 bulb holder
+- Steraliser (100g of Youngs Steriliser)
+- Wherry kit (Hopped Malt Extract)
 
-After checking 
 
-## Steralising
+## Sterilising
 
-Ater reading 3 different methods this is what I did
+Of all the advice I've had on beginning brewing, this is by far the most common. Make sure everything is clean!
+
+Ater reading different methods this is what I did
 
 - Add 10 litres of warm water (from my hot tap) to the fermentation bucket
-- Add 5 teaspoons of steraliser
+- Add 5 teaspoons of steriliser 
 - Put spoon, airlock, and rubber grommit seal inside
 - Put on lid
 - Shake it up so the steraliser water gets everywhere
 - Leave for 10 mins
 
 The steraliser that comes with it is Sodium Metasilicate, which creates SO2, which kills of any bacteria.
+
+[How to sterilise homebrew equipment](https://www.youtube.com/watch?v=vSoshc1ukGY)
 
 ## Stage 1 - Making the Wort
 
@@ -43,6 +53,8 @@ I opened them and poured both in and sloshed both out with hot water from a kett
 Then added cold water up to 5 gallons.
 
 Stirred it all for 4 minutes and a foamy head appeared.
+
+[![wort](/images/beer.jpg "wort")](/images/beer.jpg)
 
 This now called [Wort](https://www.foodrepublic.com/2013/02/13/what-is-wort/)
 
@@ -60,11 +72,17 @@ Then put on the air lock, which isn't really necessary, but for me is exciting a
 
 18-22 degrees is perfect. Not in the sun, nor close to any heat sources.
 
-After 2 to 3 days we should see visisble signs of fermenting
+[![Placement](/images/placement.jpg "placement")](/images/placement.jpg)
+
+Note the tray underneath just in case. This is in our kitchen (no big smells yet) and good fun to keep an eye on.
+
+After 2 to 3 days we should see visisble signs of fermenting. 
+
+**Update** after 2 nights it did start bubbling - very exciting to see it happening. A bubble every 10s or do. The kids love seeing it too.
 
 After 7 - 10 days (more in hotter weather) the bubbling should stop, and SG should be 1040?
 
-[![Demo site](/images/bucket.jpg "bucket")](/images/bucket.jpg)
+<!-- [![Demo site](/images/bucket.jpg "bucket")](/images/bucket.jpg) -->
 
 
 ## Stage 2 - Pressure Barrel
