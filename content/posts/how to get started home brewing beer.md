@@ -67,7 +67,7 @@ I took a reading (although I read from the base of the liquid which I think is w
 
 ## Add Yeast
 
-I then sprinked (pitched?) the yeast over the top (didn't stir)
+I then sprinked (pitched) the yeast over the top (didn't stir)
 
 Then put on the air lock, which isn't really necessary, but for me is exciting as I can see when it starts to bubble (also will tell me when fermentation is complete in around 7 to 10 days)
 
@@ -77,7 +77,7 @@ Then put on the air lock, which isn't really necessary, but for me is exciting a
 
 [![Placement](/images/placement.jpg "placement")](/images/placement.jpg)
 
-Note the tray underneath just in case. This is in our kitchen (no big smells yet) and good fun to keep an eye on.
+Note the tray underneath just in case. This is in our kitchen (no big smells yet - interestingly it didn't smell over the next 10 days) and good fun to keep an eye on.
 
 After 2 to 3 days we should see visisble signs of fermenting. 
 
@@ -85,7 +85,7 @@ After 2 to 3 days we should see visisble signs of fermenting.
 
 ## After 7 Days
 
-After 7 - 10 days (more in hotter weather) the bubbling should stop, and SG should be 1040?
+After 7 - 10 days (more in hotter weather) the bubbling should stop, and SG should be 1014 
 
 [![Demo site](/images/wort.jpg "sg")](/images/wort.jpg)
 
@@ -102,7 +102,7 @@ SG is around 1015 which is perfect to mean is has stopped fermentation. This is 
 Theoretically if we started at 1040, then (1040-1014)/7.362 = 3.5 ABV
 (alcohol by volume). The next stage will do a bit more fermenting.
 
-I left it a few more days as apparently it doesn't hurt.
+I left it a few more days as apparently it doesn't hurt, and I wanted to be sure the fermentation had stopped.
 
 
 ## Stage 2 - Pressure Barrel
@@ -119,7 +119,7 @@ Then I:
 
 [![Demo site](/images/syphon.jpg "sg")](/images/syphon.jpg)
 
-Top tip is to have a towl down and a bowl so when syphoning it doesn't get messy. The beer didn't taste too good - it was very yeasty.
+Top tip is to have a towel down and a bowl so when syphoning it doesn't get messy. The beer didn't taste too good - it was very yeasty.
 
 [![Demo site](/images/dregs.jpg "sg")](/images/dregs.jpg)
 
