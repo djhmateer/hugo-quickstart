@@ -62,9 +62,12 @@ This now called [Wort](https://www.foodrepublic.com/2013/02/13/what-is-wort/)
 
 I took a reading (although I read from the base of the liquid which I think is wrong). I didn't spin the hydrometer which would have got rid of the bubbles. It was around 1030 or 1035.
 
+{{< youtube YfdPMwUbCyw >}}
+
+
 ## Add Yeast
 
-I then sprinked the yeast over the top (didn't stir)
+I then sprinked (pitched?) the yeast over the top (didn't stir)
 
 Then put on the air lock, which isn't really necessary, but for me is exciting as I can see when it starts to bubble (also will tell me when fermentation is complete in around 7 to 10 days)
 
@@ -80,18 +83,52 @@ After 2 to 3 days we should see visisble signs of fermenting.
 
 **Update** after 2 nights it did start bubbling - very exciting to see it happening. A bubble every 10s or do. The kids love seeing it too.
 
+## After 7 Days
+
 After 7 - 10 days (more in hotter weather) the bubbling should stop, and SG should be 1040?
 
-<!-- [![Demo site](/images/bucket.jpg "bucket")](/images/bucket.jpg) -->
+[![Demo site](/images/wort.jpg "sg")](/images/wort.jpg)
+
+The wort after 7 days
+
+I took a SG reading for fun to see what was happening. The bubbling had stopped by this point.
+
+[![Demo site](/images/sg.jpg "sg")](/images/sg.jpg)
+
+Read the value from the outer edges of the container.
+
+SG is around 1015 which is perfect to mean is has stopped fermentation. This is what the instructions said on the box. The important thing is it has dropped significantly (which is good.)
+
+Theoretically if we started at 1040, then (1040-1014)/7.362 = 3.5 ABV
+(alcohol by volume). The next stage will do a bit more fermenting.
+
+I left it a few more days as apparently it doesn't hurt.
 
 
 ## Stage 2 - Pressure Barrel
 
-- Steralise the barrel
-- Add 85g of sugar
-- Transfer the beer from the bucket to the barrel
-- Leave for 2 days in a warm place (same as above ie 18-22) to further ferment
-- Leave for 2-3 weeks somehwere coole (garage perhaps)
+After 10 days I went onto stage 2. Firstly I took another SG reading for fun. It was the same at 1014.
+
+[![Demo site](/images/sg2.jpg "sg")](/images/sg2.jpg)
+
+Then I:
+
+- Steralised the pressure barrel
+- Add 85g of sugar by dissolving the sugar in a bit of water by bringing to the boil
+- Syphon the beer from the bucket into the barrel
+
+[![Demo site](/images/syphon.jpg "sg")](/images/syphon.jpg)
+
+Top tip is to have a towl down and a bowl so when syphoning it doesn't get messy. The beer didn't taste too good - it was very yeasty.
+
+[![Demo site](/images/dregs.jpg "sg")](/images/dregs.jpg)
+
+This is what was left in the fermentation bucket!
+
+So now
+
+- Leave for 2 days in a warm place (same as above ie 18-22) to secondary ferment
+- Leave for 2-3 weeks somewhere cool (garage perhaps)
 
 Then can drink using the tap from the pressure barrel. May have to add CO2 from the bulb as drink from the barrel to replenish CO2.
 
