@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home Brew Beer</title>
+    <link>https://homebrewbeer.netlify.app/</link>
+    <description>Recent content on Home Brew Beer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 18:20:12 +0000</lastBuildDate><atom:link href="https://homebrewbeer.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to get started home brewing beer - beer from a kit</title>
+      <link>https://homebrewbeer.netlify.app/2021/01/how-to-get-started-home-brewing-beer-beer-from-a-kit/</link>
+      <pubDate>Sun, 24 Jan 2021 18:20:12 +0000</pubDate>
+      
+      <guid>https://homebrewbeer.netlify.app/2021/01/how-to-get-started-home-brewing-beer-beer-from-a-kit/</guid>
+      <description>Kit I found an excellent YouTube Video - making beer from kits by the guys at brewuk.co.uk.
+I ended up buying the same kit from https://www.the-home-brew-shop.co.uk/ because they had faster customer service (brewuk didn&amp;rsquo;t respond to an initial email)
+
+Starter Kit: Woodfordes Wherry Microbrewery from the-home-brew-shop for £72 and 10 extra CO2 bottles for an extra £5.
+This is one of the most popular starting kits which is a classic bitter of around 4-5%</description>
+    </item>
+    
+    <item>
+      <title>What is beer</title>
+      <link>https://homebrewbeer.netlify.app/2021/01/what-is-beer/</link>
+      <pubDate>Sun, 24 Jan 2021 18:20:12 +0000</pubDate>
+      
+      <guid>https://homebrewbeer.netlify.app/2021/01/what-is-beer/</guid>
+      <description>Hello world This is some content here.
+Cheers
+Dave.</description>
+    </item>
+    
+  </channel>
+</rss>

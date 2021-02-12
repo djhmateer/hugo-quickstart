@@ -130,6 +130,10 @@ So now
 - Leave for 2 days in a warm place (same as above ie 18-22) to secondary ferment
 - Leave for 2-3 weeks somewhere cool (garage perhaps)
 
+I left it in our summerhouse and we've had very cold temperatures. -6degrees to a max of 2 degrees during the day. I don't know how this will affect this stage.
+
+## After 2 - 3 Weeks
+
 Then can drink using the tap from the pressure barrel. May have to add CO2 from the bulb as drink from the barrel to replenish CO2.
 
 
