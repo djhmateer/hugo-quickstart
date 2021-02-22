@@ -132,10 +132,26 @@ So now
 
 I left it in our summerhouse and we've had very cold temperatures. -6degrees to a max of 2 degrees during the day. I don't know how this will affect this stage.
 
-## After 2 - 3 Weeks
+## After 2 Weeks in Pressure Barrel
 
 Then can drink using the tap from the pressure barrel. May have to add CO2 from the bulb as drink from the barrel to replenish CO2.
 
+[![Glass](/images/glass.jpg "glass")](/images/glass.jpg)
 
+It looks like beer, smells like beer... and tastes like beer.
 
+It is beer!
 
+And tastes good. A very strong flavour, and around 4.5% abv (I think) so a good strength.
+
+I'm going to leave for another week to see if it changes.
+
+## After 3 Weeks in the Pressure Barrel
+
+asdf
+
+## Conclusion
+
+A success! Very proud to have made some rather good beer.
+
+It's great to share the success with neighbours and friends.
