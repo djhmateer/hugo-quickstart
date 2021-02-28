@@ -9,7 +9,7 @@ author = "Dave Mateer"
 copyright = "MIT"
 
 [permalinks]
-  posts = "/:year/:month/:title/"
+  posts = "/:year/:month/:day/:title/"
 
 [taxonomies]
 category = "categories"
