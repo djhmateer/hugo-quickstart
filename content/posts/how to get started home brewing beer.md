@@ -144,9 +144,15 @@ And tastes good. A very strong flavour, and around 4.5% abv (I think) so a good 
 
 I'm going to leave for another week to see if it changes.
 
-## After 3 Weeks in the Pressure Barrel (Notes)
+## After 3 Weeks in the Pressure Barrel
 
-Then can drink using the tap from the pressure barrel. May have to add CO2 from the bulb as drink from the barrel to replenish CO2.
+[![Glass](/images/pint.jpg "pint")](/images/pint.jpg)
+
+A very nice beer! I had 4 pints and it was very nice. Strength felt like 4.5%, and it was lovely to just sip away at it. 
+
+I've noticed that after 2 pints the head gets smaller (running out of CO2?). By the next day it is fine again.
+
+I do have extra CO2 from bulbs
 
 ## Conclusion
 
@@ -154,4 +160,4 @@ A success! Very proud to have made some rather good beer.
 
 It's great to share the success with neighbours and friends.... 
 
-And to think of the next batch. Its going to be more of a lager / spring refreshing beer hopefully
+I'm starting [the next batch already](/) :-)
