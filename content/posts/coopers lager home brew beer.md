@@ -10,7 +10,6 @@ This is my 2nd batch of home brew. The [first using Woodfordes Wherry](/2021/01/
 
 [![Coopers](/images/2021-02-28/coopers.jpg "Coopers")](/images/2021-02-28/coopers.jpg)
 
-
 ## Mix 
 
 [Instructions from Coopers](https://beer101.diybeer.com/instructions/international-series)
@@ -40,7 +39,7 @@ FG - Final Gravity. Then we can use the forumla to calculate alcohol content.
 
 > 0.5 is added to allow for the extra alcohol produced through fermentation in the bottle. eg. (1036 - 1014) / 7.46 + 0.5 = 3.5% ABV 
 
-## Brew
+## Stage 1 - Brew the Wort
 
 Recommended temperature is 21-27
 
@@ -50,3 +49,18 @@ Test the SG each day. FG is reached once SG is stable 2 days in a row.
 
 Recommend to taste and smell now.
 
+So it took longer - I transferred mine on the 9th day. It was probably fine on day 8, I just wanted to make sure the FG's were stable
+
+[![fg](/images/2021-02-28/fg.jpg "fg")](/images/2021-02-28/fg.jpg)
+
+FG should be around 1010, and I think this is around 1018. But is has been stable for 2-3 days so I'm fine with that. The temperature at night probably goes down to 15, so this may explain why it has taken longer to do the primary fermentation.
+
+## Stage 2 - Secondary Ferment
+
+As the instructions are about bottles, and I'm storing in a pressure vessel, I added 85g of dissolved sugar into the vessel.
+
+[![transfer](/images/2021-02-28/transfer.jpg "transfer")](/images/2021-02-28/transfer.jpg)
+
+I syphoned the beer into the barrel. Much better doing it outside where can spill it and don't have to clean up!
+
+As nighttime temperatures are still low (down to 0) I'm keeping the beer inside for a few days.

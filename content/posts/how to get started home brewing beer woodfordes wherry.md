@@ -158,6 +158,8 @@ I do have extra CO2 from bulbs
 
 A success! Very proud to have made some rather good beer.
 
-It's great to share the success with neighbours and friends.... 
+[![Success](/images/success.jpg "success")](/images/success.jpg)
 
-I'm starting [the next batch already](/) :-)
+It's great to share the success with neighbours and friends.... after 2 weeks the entire 40 pints have gone
+
+I'm starting [the next batch](/2021/02/28/coopers-lager-home-brew-beer/) :-)
