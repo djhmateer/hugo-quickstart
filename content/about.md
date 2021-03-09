@@ -15,7 +15,7 @@ hideSuggestions = "true"
 A page of background information on this blog
 
 - Beer making
-- Dave Mateer
+- [Dave Mateer](https://davemateer.com)
 - [Hugo](https://davemateer.com/2021/02/12/hugo-static-site-generator) is used to publish this blog
 
 
