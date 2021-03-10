@@ -8,9 +8,7 @@ draft: true
 
 15c started using hops
 
-
-
-Alehoof
+Ground Ivy aka Alehoof
 
 ## Growing hops
 
