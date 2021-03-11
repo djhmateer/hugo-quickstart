@@ -16,7 +16,12 @@ This is my 2nd batch of home brew. The [first using Woodfordes Wherry](/2021/01/
 
 I was confused as to if I needed the flavour enhancer, and if not, did I need to add 1kg of sugar?
 
-[jims beer kit forum](https://www.jimsbeerkit.co.uk/forum/viewtopic.php?t=33567#:~:text=You%20won't%20go%20wrong,pint%20out%20of%20that%20kit) suggests it is a good thing.
+AndyW answered it for me:
+
+- what you are adding is the sugar required to ferment into alcohol
+- the conditioner is a malt extract that gives body and head
+- sugar/dextrose will ferment in the same manner you just won't get the depth of body.
+
 
 After steralising the fermentation bucket, I added the contents of the tin into a few litres of water. Then added in the flavour enhancer. I topped up the water to around 20l
 

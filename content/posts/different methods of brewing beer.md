@@ -7,3 +7,8 @@ draft: true
 [https://www.brewuk.co.uk/beer](https://www.brewuk.co.uk/beer)
 
 - kit
+
+- asdf
+[mangrove jacks craft series 40 pints juicy session ipa](https://brew2bottle.co.uk/products/mangrove-jacks-craft-series-40-pints-juicy-session-ipa) £19.95  which you need to add 1.2kg [Pure Malt Enchancer](https://brew2bottle.co.uk/products/mangrove-jacks-1-2kg-pure-malt-enhancer?variant=16698333134963) £4.95
+
+- asdfsdfjk
