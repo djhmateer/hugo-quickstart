@@ -4,10 +4,6 @@ date: 2021-01-24T18:20:12Z
 draft: true
 ---
 
-## Hello world
+[https://www.brewuk.co.uk/beer](https://www.brewuk.co.uk/beer)
 
-This is some content here.
-
-Cheers
-
-Dave.
+- kit
