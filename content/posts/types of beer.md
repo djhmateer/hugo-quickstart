@@ -5,11 +5,20 @@ draft: true
 ---
 
 
-Ale
+Bitter and traditional Ale
 
-Bitter
+Dark and Winter Ales, Stout and Porter
+  Guiness
 
-Lager
+Lager, Wheat Beer beer and Light Ales
+
+Pale Ales and IPAs
+
+Belgian
+
+Craft
+
+
 
 Pilser 
   Pilzen
@@ -21,7 +30,4 @@ American IPA
 White beer
 
 Belgian strong beer eg Duval
-
-Stout
-  Guiness
 
