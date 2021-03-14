@@ -69,3 +69,9 @@ As the instructions are about bottles, and I'm storing in a pressure vessel, I a
 I syphoned the beer into the barrel. Much better doing it outside where can spill it and don't have to clean up!
 
 As nighttime temperatures are still low (down to 0) I'm keeping the beer inside for a few days.
+
+After 1 week I tried it and it was:
+
+- watery
+- needs more bubbles!
+- drinkable
