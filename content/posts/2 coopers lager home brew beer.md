@@ -75,3 +75,10 @@ After 1 week I tried it and it was:
 - watery
 - needs more bubbles!
 - drinkable
+
+
+[![transfer](/images/2021-02-28/week2.jpg "transfer")](/images/2021-02-28/week2.jpg)
+
+After 2.5 weeks it was much clearer and looks great:
+
+It still needs more CO2 and is a touch 'watery' and could do with a more sweet flavour. So, I decided to add in some more sugar to see what happens. I added about 50g into the barrel, and it started foaming up, so I put the pressure relief valve on quickly.
