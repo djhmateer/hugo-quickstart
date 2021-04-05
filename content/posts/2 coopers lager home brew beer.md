@@ -82,3 +82,5 @@ After 1 week I tried it and it was:
 After 2.5 weeks it was much clearer and looks great:
 
 It still needs more CO2 and is a touch 'watery' and could do with a more sweet flavour. So, I decided to add in some more sugar to see what happens. I added about 50g into the barrel, and it started foaming up, so I put the pressure relief valve on quickly.
+
+After 3.5 weeks it is tasting much better. Especially if it is nice and cold from the fridge and is has lots of CO2 in it. I'm trying to encourage more CO2 so adding a bit of sugar after I take out a few pints.
