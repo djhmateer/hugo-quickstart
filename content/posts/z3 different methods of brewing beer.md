@@ -18,6 +18,8 @@ Is concentrated wort. LME - Liquid Malt Extract. DME Dry malt extract.
 
 Extract brewing is adding water to malt extract and boiling (usually for 60 minutes). Wort is the final product before adding the yeast to ferment.
 
+Some malt extracts are pre-hopped. Recommend buying hop pellets and doing yourself.
+
 
 - 3. All grain - full mash
 
@@ -31,12 +33,26 @@ Extract brewing is adding water to malt extract and boiling (usually for 60 minu
 
 Mill (Crush) the grains - barley, rye, wheat and others. Cracking the husks of each individual kernel to allow the water a chance to get at the soluble starches. ..these starches would be used to by the seed to provide a food source for the growing plant... brewers are after the sugars to feed something of their own.. yeast.
 
-After milling. need to let them steep in a brew bag inside a massive pot. This extracts the sugars. Then take the grain out, and bin it. And boil the water. This is now wort.
+After milling. need to let them steep in a brew bag inside a massive pot. This extracts the sugars. Then take the grain out, and bin it. And boil the water. This sweet starchy liquid is now wort.
 
-Malt is dry malted barley, rye, wheat or other grains mixed with warm water ('liquor' to brewers) to produce a glutinous (sticky / gloopy or gluey) substance. Is this Malt Extract (above?)
 
-This sweet, starchy liquid, is known as wort
+- 2. Boiling
 
-- Boiling
-- Fermentation
-- Conditioning
+Worts is heated to a rolling boil. Enzymes that were breaking down teh starches are stepped, giving a known quantity of sugars. 
+
+Hops are added into the brew in batches. Hundreds of different kids of hops available. The longer the hop is in the boil, the more a hops adds. So lots of added here will give a bitterness to the beer. Those introduced later on in the boil give more delicate armoas.
+
+- 3. Fermentation
+
+Wort is cooled. Temp needs to come down quickly when done - big copper coil?
+
+Yeast is 'pitched'. Yeast consumes the sugars. Beer foams. Yeasts take the sugars and converts into ethanol and CO2. Hundreds of different yeast strains.
+
+This can take about 7 days?
+
+
+- 4. Conditioning
+
+Several days to weeks. If have barrels can be months or years. 
+
+Maturation stage lets the remaining yeast reabsorb...
