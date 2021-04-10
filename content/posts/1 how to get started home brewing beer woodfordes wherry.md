@@ -31,6 +31,10 @@ This is one of the most popular starting kits which is a classic bitter of aroun
 
 Of all the advice I've had on beginning brewing, this is by far the most common. Make sure everything is clean!
 
+In the words of an expert brewer: 
+
+> To avoid minglery near any of the brewing equipment. The Germans observe a rule called `Schlechtmingel` which has been in use since the 15th century. This rule has its equivalent throughout the world’s brewing communities today, and is essential for the production of delicious ales. Very important.
+
 Ater reading different methods this is what I did
 
 - Add 10 litres of warm water (from my hot tap) to the fermentation bucket
