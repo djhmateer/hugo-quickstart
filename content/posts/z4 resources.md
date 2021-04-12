@@ -1,5 +1,5 @@
 ---
-title: Resources 
+title: Growing Hops 
 date: 2021-03-29
 draft: true
 ---

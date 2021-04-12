@@ -1,10 +1,10 @@
 ---
 title: "Different methods of brewing beer"
-date: 2021-01-24T18:20:12Z
+date: 2021-04-11
 draft: true
 ---
 
-**look at beer brewing on onenote***
+These are the different methods of home brewing beer 
 
 [https://www.brewuk.co.uk/beer](https://www.brewuk.co.uk/beer)
 
