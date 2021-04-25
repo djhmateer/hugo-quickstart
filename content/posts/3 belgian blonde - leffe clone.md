@@ -12,7 +12,7 @@ This is the first time I've made beer from 'raw' ingrediants. And it is costing 
 
 So what came in the pack:
 
-[Dingemans Pilsen Malt (5000 grams)](https://www.themaltmiller.co.uk/product/dingemans-pilsen-malt/)
+Dingemans Pilsen Malt (5000 grams)
 Dingemans Aromatic Malt (227 grams)
 Dingemans Pale Wheat Malt (227 grams)
 Hallertauer Mittlefruh Pellets (83 grams)
@@ -21,9 +21,12 @@ Safbrew™ T-58 (1 packs)
 
 ## Grains
 
-[https://www.themaltmiller.co.uk/product/dingemans-pilsen-malt/](https://www.themaltmiller.co.uk/product/dingemans-pilsen-malt/) - produced from the finest European two row barley
+[https://www.themaltmiller.co.uk/product/dingemans-pilsen-malt/](https://www.themaltmiller.co.uk/product/dingemans-pilsen-malt/) - produced from the finest European two row barley - £2.28 / Kg
 
 [Malt](https://en.wikipedia.org/wiki/Malt) is germinated cereal grain that has been dried in a process known as "malting". The grain is made to germinate by soaking in water and is then halted from germinating further by drying with hot air.
 
+We have 5Kg in this pack
+
+Chepeast barley is £28 for 25Kg sack. £30 for 25Kg sack which is £1.20/Kg
 
 
