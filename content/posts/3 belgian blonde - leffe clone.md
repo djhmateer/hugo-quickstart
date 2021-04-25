@@ -8,7 +8,12 @@ draft: true
 
 It comes with yeast.
 
-This is the first time I've made beer from 'raw' ingrediants. And it is costing virtually the same so far.
+This is the first time I've made beer from 'raw' ingredients.
+
+It is the All Grain Mash brewing
+
+
+And it is costing virtually the same so far.
 
 So what came in the pack:
 
@@ -28,6 +33,29 @@ Safbrew™ T-58 (1 packs)
 We have 5Kg in this pack
 
 Chepeast barley is £28 for 25Kg sack. £30 for 25Kg sack which is £1.20/Kg
+
+Confusion is whether I need to 'mash' this. As it has already been malted.
+
+## Mashing
+ converts the starch in the grains to germentable sugars through activation on enzymes by heat.
+
+ Alpha amylase - best 67-75oC
+ beta Amylase between 54-65oC
+
+
+ mill (crush) the grain so husk breaks open, giving water access the ge grain starches and enzymes
+
+ How water (also called hot liquor) is added to the masihng vessel, called a mash tun. So when mnised wiht the grain it is at a temperature that activates the enzymes.
+
+ Next the crushed grain is added and mised such that there ar eno clumps of grian.
+
+ Following this the mash is allowed to rest for an hour in order to gie the enzymes time to break apart the starches.
+
+
+ A single infusion mashin is most common in home brewing, where one temp is employed between 62 to 72oC activating both enzymes to varying degrees.
+
+ Following the mash rest, lautering beings. Lautering
+
 
 .
 

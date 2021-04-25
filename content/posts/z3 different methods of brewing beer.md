@@ -25,6 +25,8 @@ Some malt extracts are pre-hopped. Recommend buying hop pellets and doing yourse
 
 [how to make beer at home for cheap](https://www.youtube.com/watch?v=2gQXDU3eSPY)
 
+Interestingly people seem to go from 5 gallons (40 pints) to 10 gallon batches.
+
 ## Brew Dog PDF
 
 [Brew Dog 2019 DIYDog](https://www.brewdog.com/blog/diy-dog-2019)
