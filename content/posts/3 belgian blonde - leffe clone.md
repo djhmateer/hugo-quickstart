@@ -29,4 +29,7 @@ We have 5Kg in this pack
 
 Chepeast barley is £28 for 25Kg sack. £30 for 25Kg sack which is £1.20/Kg
 
+.
+
+
 
