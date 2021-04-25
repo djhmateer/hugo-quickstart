@@ -37,6 +37,9 @@ Chepeast barley is £28 for 25Kg sack. £30 for 25Kg sack which is £1.20/Kg
 Confusion is whether I need to 'mash' this. As it has already been malted.
 
 ## Mashing
+
+[https://byo.com/article/all-grain/](https://byo.com/article/all-grain/)
+
  converts the starch in the grains to germentable sugars through activation on enzymes by heat.
 
  Alpha amylase - best 67-75oC
