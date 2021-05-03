@@ -24,6 +24,8 @@ Some malt extracts are pre-hopped. Recommend buying hop pellets and doing yourse
 
 Easy approach to All Grain Brewing
 
+[[https://homebrewbrighton.co.uk/cheap-brew-kit-setup/]]([https://homebrewbrighton.co.uk/cheap-brew-kit-setup/])
+
 I have an 8litre cooking pot - looks like I need about a 20l pot.. ideallly 30 or 40l pot
 
 Also called a brew kettle. Big stock pot. Avoid wide.
