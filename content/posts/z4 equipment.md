@@ -15,7 +15,7 @@ draft: true
 [https://www.themaltmiller.co.uk/](https://www.themaltmiller.co.uk/) - lots of grains and recipes. Bought my belgian blonde BIAG #3 from here. Swindon. 2:10 drive.
 
 
-[thehomebrewcompany](https://www.thehomebrewcompany.co.uk/index.php?main_page=advanced_search_result&keyword=pot&autocomplate_id=&search_in_description=1&zenid=tq5okc6e3fvn80ni9vhjonrcu5) - they have 70l stock pot. Ireland.
+[thehomebrewcompany](https://www.thehomebrewcompany.co.uk/index.php?main_page=advanced_search_result&keyword=pot&autocomplate_id=&search_in_description=1&zenid=tq5okc6e3fvn80ni9vhjonrcu5) - they have 70l stock pot. Ireland. About £90.
 
 [https://www.almostoffgrid.com/pages/about-us](https://www.almostoffgrid.com/pages/about-us) - about 25mins drive from me. No grains nor stock pots. 
 
