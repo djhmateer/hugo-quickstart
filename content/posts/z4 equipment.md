@@ -21,9 +21,10 @@ draft: true
 
 ## Hardware
 
-Large Stock Pot
+Large Stock Pot [ebay](https://www.ebay.co.uk/itm/353474620666) I ended up buying this. 50l - approx 42cm diameter, 41cm deep.
 
-[ebay](https://www.ebay.co.uk/itm/353474620666)
+[Therpin 75 Micron Nylon Straining Bag Fine](https://www.amazon.co.uk/gp/product/B072N3CZY6/ref=ox_sc_act_title_1?smid=A1JQD8FFNWUAB1&psc=1) at 48cm x 64cm for £10 with Amazon Prime delivery.
+
 
 
 [facebook marketplace](https://www.facebook.com/marketplace/)
