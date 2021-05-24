@@ -24,6 +24,12 @@ Hallertauer Mittlefruh Pellets (83 grams)
 Belgian Candi Sugar Rocks Clear 500g (1 packs)
 Safbrew™ T-58 (1 packs)
 
+## First Unsuccessful try
+
+[![pot](/images/2021-05-24/pot.jpg "pot")](/images/2021-05-24/pot.jpg)
+
+This pot was too big for my gas burner. It heated up the electrical clicker which then shorted out tripping the breaker. So the time has come to brew outside.
+
 ## Grains
 
 [https://www.themaltmiller.co.uk/product/dingemans-pilsen-malt/](https://www.themaltmiller.co.uk/product/dingemans-pilsen-malt/) - produced from the finest European two row barley - £2.28 / Kg

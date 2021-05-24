@@ -45,6 +45,13 @@ Maybe need a 3 vessel system to do this?
 
 Interestingly people seem to go from 5 gallons (40 pints) to 10 gallon batches.
 
+- 4?
+
+[https://beerandbrewing.com/malt-your-own-barley/](https://beerandbrewing.com/malt-your-own-barley/)
+
+This seems like a lot of fun to make beer from raw ingrediants.
+
+
 ## Brew Day 
 
 [Brew Dog 2019 DIYDog](https://www.brewdog.com/blog/diy-dog-2019)

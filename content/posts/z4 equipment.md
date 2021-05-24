@@ -34,7 +34,11 @@ Large Stock Pot [ebay](https://www.ebay.co.uk/itm/353474620666) I ended up buyin
 
 [https://www.diy.com/](https://www.diy.com/) - large buckets?
 
+## Heating (equipment fail!)
 
+[![pot](/images/2021-05-24/pot.jpg "pot")](/images/2021-05-24/pot.jpg)
+
+This pot was too big for my gas burner. It heated up the electrical clicker which then shorted out tripping the breaker. So the time has come to brew outside.
 
 
 ## Shops
