@@ -12,7 +12,9 @@ This is the first time I've made beer from 'raw' ingredients.
 
 It is the All Grain Mash brewing - I'm using Brew in a Bag technique. The first 2 brews were Malt Extract style
 
-[https://www.youtube.com/watch?v=IneNZ4l6das](https://www.youtube.com/watch?v=IneNZ4l6das) - folling this video
+[https://www.youtube.com/watch?v=IneNZ4l6das](https://www.youtube.com/watch?v=IneNZ4l6das) - following this video
+
+[https://www.youtube.com/watch?v=SHV0k0pdtgc](https://www.youtube.com/watch?v=SHV0k0pdtgc) - and this Australian one
 
 So what came in the pack:
 
@@ -22,19 +24,6 @@ Dingemans Pale Wheat Malt (227 grams)
 Hallertauer Mittlefruh Pellets (83 grams)
 Belgian Candi Sugar Rocks Clear 500g (1 packs)
 Safbrew™ T-58 (1 packs) - yeast
-
-## Mashing
-
-grain + hot water + time = wort
-
-boib - mash and boil in same vessel
- instead of using a dedicated mash ton with a false bottom or screen
-
-## Lautering
-
-separating grain (grist) from liquid wort
-
-lautering (lifting)
 
 ## The Mash
 
@@ -46,7 +35,7 @@ and absorbtion by the grain
 
 [https://biabcalculator.com/](https://biabcalculator.com/)
 
-So it looks like about 33litres may be a good starting amount of water (Strike Water). We're using no sparge method ie we wont add any other water.
+So it looks like about 33 litres may be a good starting amount of water (Strike Water). We're using no sparge method ie we wont add any other water.
 
 heat water to about 70C (strike temperature). My mash temp is 66C 
 
@@ -57,6 +46,9 @@ slowly pour the grain into the bag, stir, break up any clumps
 this mixture of grain and hot water is now called the mash
 
 aim for mash temp of 66
+
+I got 65.5c with a 70c strike temperature, and it smelled really nice, almost sweet.
+
 if too cool, heat up slowly
 if too hot, add cold water
 
@@ -79,13 +71,18 @@ transfer bag to a bucket... and any collected wort can be put back into the kett
 
 give bag a big squeeze.. (big gloves?)
 
-Sparging - rinsing the grains after the mash
+Sparging (optional) - rinsing the grains after the mash
 
 ## The Boil
 
 Boil
   take a gravity reading. 100ml sample. cool it, then hydrometer
 or a few drops on a refratometer
+
+mine was about 1035 (but wasn't cooled when I did the reading) and recipe said original gravity should be 1065
+
+don't know if this will be after the boil
+
 
 bittering hops at 90minutes (to go).. longer the hops are in, the more bitter, and less flavour
 
@@ -152,3 +149,15 @@ Confusion is whether I need to 'mash' this. As it has already been malted.
 
 
 
+## Mashing
+
+grain + hot water + time = wort
+
+boib - mash and boil in same vessel
+ instead of using a dedicated mash ton with a false bottom or screen
+
+## Lautering
+
+separating grain (grist) from liquid wort
+
+lautering (lifting)
