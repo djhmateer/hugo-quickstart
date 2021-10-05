@@ -1,35 +1,52 @@
 ---
 title: Belgian Blonde - Leffe clone
-date: 2021-04-19
-draft: true 
+date: 2021-10-05
+draft: false 
 ---
 
-[https://www.themaltmiller.co.uk/product/belgian-blonde-leffe-clone/](https://www.themaltmiller.co.uk/product/belgian-blonde-leffe-clone/) ordered for around £26 on 19th April.
+Brew number 3 - it took 6 months!
 
-It comes with yeast.
+[https://www.themaltmiller.co.uk/product/belgian-blonde-leffe-clone/](https://www.themaltmiller.co.uk/product/belgian-blonde-leffe-clone/) ordered for around £26 (£19 + shipping) on 19th April 2021.
 
-This is the first time I've made beer from 'raw' ingredients.
+This is my first All Grain Mash brewing using Brew in a Bag technique. The first 2 brews I did were Malt Extract style
 
-It is the All Grain Mash brewing - I'm using Brew in a Bag technique. The first 2 brews were Malt Extract style
+[![pot](/images/2021-05-24/outside.jpg "pot")](/images/2021-05-24/outside.jpg)
+
+My new [50 litre cook pot](https://www.nisbets.co.uk/matfer-bourgeat-excellence-stockpot-50ltr/k774) (from ebay) and [burner](https://www.themaltmiller.co.uk/product/7-5kw-gas-burner-and-stand/), [regultor](https://www.themaltmiller.co.uk/product/37-mbar-low-pressure-screw-in-propane-gas-regulator/) and [hose](https://www.themaltmiller.co.uk/product/8-3mm-lpg-high-pressure-gas-hose/). 
+
+ after being expelled from the kitchen for breaking the cooker (see below). I am really thankful as it was pungent and lots of steam. I would not have been popular doing this in the family kitchen.
+
+TL;DR
+
+- Dingermans Pilsen Malt 5kg
+- Dingermans Aromatic Malt 227g
+- Dingermans Pale Wheat Malt 227g
+- Strike Water - 33litres
+- Strike Water temp - 66 (I got 65.5)
+- Mash time - 90 minutes (Brew in a bag)
+- Original Gravity - 1.065 (I got 1.050)
+- Boil time - 90 minutes
+- Hops - Hallertauer MittelFrush Pellets - added at 90minutes to go
+- Candi rocks - added at 10 minutes to go
+- Cooling - left overnight outside
+- Final Batch size - 23litres (I've got 25litres including detrious)
+- Yeast - T-58. Pitched at 16 degrees
+- Fermentation - room temperature around 19 degrees
+
+
+## Intro
+
+I found these videos useful:
 
 [https://www.youtube.com/watch?v=IneNZ4l6das](https://www.youtube.com/watch?v=IneNZ4l6das) - following this video
 
 [https://www.youtube.com/watch?v=SHV0k0pdtgc](https://www.youtube.com/watch?v=SHV0k0pdtgc) - and this Australian one
 
-So what came in the pack:
-
-Dingemans Pilsen Malt (5000 grams)
-Dingemans Aromatic Malt (227 grams)
-Dingemans Pale Wheat Malt (227 grams)
-Hallertauer Mittlefruh Pellets (83 grams)
-Belgian Candi Sugar Rocks Clear 500g (1 packs)
-Safbrew™ T-58 (1 packs) - yeast
-
 ## The Mash
 
-5.5 gallons, to make 3.5 gallons after the boil
-allowing for losses during boil
-and absorbtion by the grain
+Malted Grain + Hot water + time = wort
+
+BOIB (brew in a bag) - mash and boil in same vessel instead of using a dedicated mash ton with a false bottom or screen
 
 23 litre batch size
 
@@ -37,9 +54,9 @@ and absorbtion by the grain
 
 So it looks like about 33 litres may be a good starting amount of water (Strike Water). We're using no sparge method ie we wont add any other water.
 
-heat water to about 70C (strike temperature). My mash temp is 66C 
+Heat water to about 70C (strike temperature). My mash temp is 66C 
 
-when target temp is met, turn off the burner
+When target temp is met, turn off the burner
 
 slowly pour the grain into the bag, stir, break up any clumps
 
@@ -62,8 +79,15 @@ don't worry about temp drop
 
 mash out (optional) .. after 60 minutes or 10 minutes before end..heat back up to 78C and stir. which will get higher specific gravity as more sugars will come out.
 
+## Sparging (optional) 
 
-### Lautering
+Rinsing the grains after the mash
+
+## Lautering
+
+separating grain (grist) from liquid wort
+
+lautering (lifting)
 
 put bag out of kettle to let cool off (it will be hot)
 
@@ -71,37 +95,31 @@ transfer bag to a bucket... and any collected wort can be put back into the kett
 
 give bag a big squeeze.. (big gloves?)
 
-Sparging (optional) - rinsing the grains after the mash
 
 ## The Boil
 
-Boil
-  take a gravity reading. 100ml sample. cool it, then hydrometer
-or a few drops on a refratometer
+Take a gravity reading. 100ml sample. cool it, then hydrometer or a few drops on a refratometer.
+Mine was about 1035 (but wasn't cooled when I did the reading) and recipe said original gravity should be 1065
 
-mine was about 1035 (but wasn't cooled when I did the reading) and recipe said original gravity should be 1065
+Bittering hops at 90minutes (to go).. longer the hops are in, the more bitter, and less flavour
 
-don't know if this will be after the boil
+Add sugar at 10 minutes (to go!)
 
-
-bittering hops at 90minutes (to go).. longer the hops are in, the more bitter, and less flavour
-
-add sugar at 10 minutes (to go!)
-
-flavour and aroma hops (none)
+Flavour and aroma hops (none)
 
 0 minutes is flame out
 
-finings - will help get clear wort
+Finings - will help get clear wort
 
-### Chilling the wort
+## Chilling the wort
 
 use immersion chiller to cool from boiling to pitching temperature
 
-or put in a bucket and leave to chill overnight
+or put in a bucket and leave to chill overnight (I left it in the pot overnight)
 
+[![pot](/images/2021-05-24/sg.jpg "pot")](/images/2021-05-24/sg.jpg)
 
-
+The final specific gravity of around 1.050 at room temperature.
 
 ## First Unsuccessful try
 
@@ -109,7 +127,11 @@ or put in a bucket and leave to chill overnight
 
 This pot was too big for my gas burner. It heated up the electrical clicker which then shorted out tripping the breaker. So the time has come to brew outside.
 
-## Grains
+[![pot](/images/2021-05-24/wiring.jpg "pot")](/images/2021-05-24/wiring.jpg)
+
+What you never want to see. The inside of a gas burner unit with fried electrics. With it all being my fault. Even though the engineers who have tried to fix it said it wasn't my fault. It will always me my fault. Never argue with wife :-)
+
+## Grains Background info
 
 [https://www.themaltmiller.co.uk/product/dingemans-pilsen-malt/](https://www.themaltmiller.co.uk/product/dingemans-pilsen-malt/) - produced from the finest European two row barley - £2.28 / Kg
 
@@ -121,7 +143,7 @@ Chepeast barley is £28 for 25Kg sack. £30 for 25Kg sack which is £1.20/Kg
 
 Confusion is whether I need to 'mash' this. As it has already been malted.
 
-## Mashing
+## Mashing Background info
 
 [https://byo.com/article/all-grain/](https://byo.com/article/all-grain/)
 
@@ -144,20 +166,14 @@ Confusion is whether I need to 'mash' this. As it has already been malted.
 
  Following the mash rest, lautering beings. Lautering
 
+[![pot](/images/2021-05-24/play.jpg "pot")](/images/2021-05-24/play.jpg)
 
-.
+Kids learning about beer making :-)
 
+## Fermentation
 
+[![pot](/images/2021-05-24/ferment.jpg "pot")](/images/2021-05-24/ferment.jpg)
 
-## Mashing
+Lets leave it now (5th Oct at 0930) until fermentation stops.
 
-grain + hot water + time = wort
-
-boib - mash and boil in same vessel
- instead of using a dedicated mash ton with a false bottom or screen
-
-## Lautering
-
-separating grain (grist) from liquid wort
-
-lautering (lifting)
+Notice all the detrius (some of the grains escaped). I've left it all in there because I'm worried it wont be strong enough as Original Gravity was low, so trying to ferment all sugars possible.
