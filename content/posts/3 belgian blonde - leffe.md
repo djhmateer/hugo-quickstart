@@ -177,3 +177,16 @@ Kids learning about beer making :-)
 Lets leave it now (5th Oct at 0930) until fermentation stops.
 
 Notice all the detrius (some of the grains escaped). I've left it all in there because I'm worried it wont be strong enough as Original Gravity was low, so trying to ferment all sugars possible.
+
+## Conditioning
+
+I transferred to the keg on the 24th of October - 19 days affter fermenting.
+
+Took a final SG reading and it was 1010
+OG was 1050
+
+Final - Original * 131.25 = 5.25%
+
+[![pot](/images/2021-05-24/sg2.jpg "sg")](/images/2021-05-24/sg2.jpg)
+
+Looks like beer, and tasted good too. Tasted stronger than 5.25% to me.
