@@ -180,7 +180,7 @@ Notice all the detrius (some of the grains escaped). I've left it all in there b
 
 ## Conditioning
 
-I transferred to the keg on the 24th of October - 19 days affter fermenting.
+I transferred to the keg on the 24th of October - 19 days after fermenting.
 
 Took a final SG reading and it was 1010
 OG was 1050
