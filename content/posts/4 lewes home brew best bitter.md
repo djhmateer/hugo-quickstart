@@ -46,9 +46,13 @@ Using a tree swing to help gert the rest of the wort out.
 
 Leave to cool overnight
 
-OG is:
+Outside temp at 0935 is: 12.4
+Wort temp is: 20.6
+OG is: 1040
 
 ## Ferment
+
+Pitched yeast at 0950 on Tue 26th Oct.
 
 2-3 weeks? Is probably a fast fermenter
 
