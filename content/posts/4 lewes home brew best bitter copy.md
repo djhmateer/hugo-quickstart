@@ -55,7 +55,16 @@ Leave to cool overnight
 
 Pitched yeast at 0950 on Tue 26th Oct.
 
-2-3 weeks?
+2.5 weeks until transferred to pressure keg.
 
+##
+
+Learned not to fill a full keg with CO2. I messed up with the wrong top so can no naturally produced CO2 in my keg.
+
+The keg visibly expanded when I put the CO2 cannister in it!
+
+Drinking some of it then pressurising is good.
+
+Beer is tasting good.
 
  
