@@ -69,5 +69,7 @@ Temp of wort in the morning was 11 degrees.
 
 Hit 19 litres (just with some siving)
 
+24th nov (72 hours after putting in) it has finally started bubbling consistently. Apparently this is not unusual and the yeast can be a slow starter.
+
 Day 7 - dry hop 100 g centennial
 
