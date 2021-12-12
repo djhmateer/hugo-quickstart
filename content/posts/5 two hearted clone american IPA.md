@@ -73,3 +73,11 @@ Hit 19 litres (just with some siving)
 
 Day 7 - dry hop 100 g centennial
 
+## Bottle / Condition
+
+After just under 3 weeks I'm bottling for the first time
+
+[https://www.brewersfriend.com/beer-priming-calculator/](https://www.brewersfriend.com/beer-priming-calculator/)
+
+I'm going for 2.2 volumes of CO2, so 102g of sugar dissolved.
+
