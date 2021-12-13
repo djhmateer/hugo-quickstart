@@ -77,6 +77,8 @@ Day 7 - dry hop 100 g centennial
 
 After just under 3 weeks I'm bottling for the first time
 
+Final gravity was approx 1.010
+
 [https://www.brewersfriend.com/beer-priming-calculator/](https://www.brewersfriend.com/beer-priming-calculator/)
 
 I'm going for 2.2 volumes of CO2, so 102g of sugar dissolved.
