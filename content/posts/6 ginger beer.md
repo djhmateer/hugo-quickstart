@@ -44,3 +44,10 @@ I'm going for the strategy of
 
 This is safer that the adding sugar to sweeter, as I'm transporting the ginger beer 500 miles by car, and then over the period of 10 days across more temperatures. I don't want explosions!
 
+Bottled it just under 3 weeks of fermenting wiht an Final Gravity of 0.995 giving 7.2%
+
+It is very strong (and not fizzy yet). So having soda water with it works well. 
+
+Put in lots of swweetener (not sucrose) for taste.
+
+
