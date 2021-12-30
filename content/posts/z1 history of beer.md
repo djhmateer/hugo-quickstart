@@ -16,6 +16,9 @@ Ground Ivy aka Alehoof
 
 ## Hops
 
+[https://aeronautbrewing.wordpress.com/2020/11/18/the-story-of-hops-part-one-what-the-fuggle-are-hops/](https://aeronautbrewing.wordpress.com/2020/11/18/the-story-of-hops-part-one-what-the-fuggle-are-hops/)
+
+
 [brewuk.co.uk](https://www.brewuk.co.uk/blog/growing-hops-at-home/#:~:text=Hops%20ideally%20should%20be%20planted,foot%20high%20above%20ground%20level.)
 
 

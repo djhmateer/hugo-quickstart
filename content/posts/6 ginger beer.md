@@ -51,3 +51,6 @@ It is very strong (and not fizzy yet). So having soda water with it works well.
 Put in lots of swweetener (not sucrose) for taste.
 
 
+After a few weeks, this has come out super well, and will definately make it again.
+
+

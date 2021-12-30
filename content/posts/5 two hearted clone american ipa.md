@@ -83,6 +83,8 @@ Final gravity was approx 1.010
 
 I'm going for 2.2 volumes of CO2, so 102g of sugar dissolved.
 
-1 week after bottling I thought I'd give the beer a try. 18th December I tried it (day 2 of isolation with covid) and the beer is fantastic. Super impressed with it!
+1 week after bottling I thought I'd give the beer a try. 18th December I tried it (day 2 of isolation with covid) and the beer is fantastic. 
 
+Super impressed with it!
 
+This is the best beer I have brewed so far, and lovely to have in a bottle, so can drink straight out of the fridge.
