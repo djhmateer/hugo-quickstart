@@ -15,25 +15,41 @@ This recipe is taken from the book Beer Craft by Jon Finch
 
 [https://biabcalculator.com/](https://biabcalculator.com/) 
 
-Strike Water: x litres for a 22 litre batch size
+Crisp Extra Pale Maris Otter (5000 grams)
 
-Strike temp: 
+Crisp Caramalt (300 grams)
 
-Mash temp:
+Strike Water: 26.7 litres for a 19 litre batch size
 
-Length: 
+I treated my water with 1/4 teaspoon of Sodium Metabisulphite (Campden)
+
+Strike temp: 66C (strange result from website above). Ended up going for 69C
+
+Mash temp: 65C ended up 66.5
+
+Length: 60mins
 
 
 ## Mash Out
 
-Out temp: 
+Out temp: 75
 
-Out time: 
+Out time: 10mins
+
+## Boil
+
+Time: 60mins
+
+40g Centennial at 60mins
+30g Centennial at 10mins
+30g Amarillo at flame out. Steep for 30mins
+30g Simcoe at flame out. Steep for 30mins
 
 ## Hoisting Brew Bag and Drain
 
 Target Original Gravity: 
 
 After letting the wort cool to ambient I got: 
+
 
 
