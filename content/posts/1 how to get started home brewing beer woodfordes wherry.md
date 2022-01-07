@@ -24,7 +24,7 @@ This is one of the most popular starting kits which is a classic bitter of aroun
 - Vent cap - there are 2, we only need the one with a CO2 brass thread
 - Black CO2 bulb holder
 - Steraliser (100g of Youngs Steriliser)
-- Wherry kit (Hopped Malt Extract)
+- Wherry kit (Liquid Malt Extract)
 
 
 ## Sterilising

@@ -10,6 +10,8 @@ This is my 2nd batch of home brew. The [first using Woodfordes Wherry](/2021/01/
 
 [![Coopers](/images/2021-02-28/coopers.jpg "Coopers")](/images/2021-02-28/coopers.jpg)
 
+Liquid Malt Extract kit.
+
 ## Mix 
 
 [Instructions from Coopers](https://beer101.diybeer.com/instructions/international-series)

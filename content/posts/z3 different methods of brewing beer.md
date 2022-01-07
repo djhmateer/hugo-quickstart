@@ -4,23 +4,27 @@ date: 2021-04-11
 draft: true
 ---
 
-These are the different methods of home brewing beer 
+There are  different methods of home brewing beer 
 
 [https://www.brewuk.co.uk/beer](https://www.brewuk.co.uk/beer)
 
-- 1. Starter kit
+## 1. Starter kit with Liquid Malt Extract
 
 [mangrove jacks craft series 40 pints juicy session ipa](https://brew2bottle.co.uk/products/mangrove-jacks-craft-series-40-pints-juicy-session-ipa) £19.95  which you need to add 1.2kg [Pure Malt Enchancer](https://brew2bottle.co.uk/products/mangrove-jacks-1-2kg-pure-malt-enhancer?variant=16698333134963) £4.95
 
-
-- 2. Malt Extract
 Is concentrated wort. LME - Liquid Malt Extract. DME Dry malt extract. 
 
 Extract brewing is adding water to malt extract and boiling (usually for 60 minutes). Wort is the final product before adding the yeast to ferment.
 
 Some malt extracts are pre-hopped. Recommend buying hop pellets and doing yourself.
 
-- 2. BIAB Brew in a Bag
+[https://www.themaltmiller.co.uk/product/bells-two-hearted-mini-mash/](https://www.themaltmiller.co.uk/product/bells-two-hearted-mini-mash/) - as liquid malt extract
+
+[Other LME Kits](https://www.themaltmiller.co.uk/page/3/?s=liquid+malt&search_id=1&post_type=product)
+
+[the-home-brew-shop LME kits](https://www.the-home-brew-shop.co.uk/beer-kits-home-brew/beer-type-homebrewing-kits/ipa-and-mild-beer-kits.html)
+
+## 2. BIAB Brew in a Bag
 
 Easy approach to All Grain Brewing
 
