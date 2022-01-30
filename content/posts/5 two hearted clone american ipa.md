@@ -1,5 +1,5 @@
 ---
-title: Two Hearted Clone America IPA 
+title: Two Hearted Clone America IPA - Brew 5
 date: 2021-11-20
 draft: false 
 ---

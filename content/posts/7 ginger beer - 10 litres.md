@@ -1,5 +1,5 @@
 ---
-title: Ginger Beer - Brew 7
+title: Ginger Beer - 10 litres - Brew 7
 date: 2021-12-30
 draft: false 
 ---
