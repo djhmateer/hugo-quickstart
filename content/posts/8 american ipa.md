@@ -1,7 +1,7 @@
 ---
 title: American IPA - Jon Finch - Brew 8
 date: 2022-01-01
-draft: true 
+draft: false 
 ---
 
 [https://www.themaltmiller.co.uk/product/american-ipa-jon-finch/](https://www.themaltmiller.co.uk/product/american-ipa-jon-finch/)
