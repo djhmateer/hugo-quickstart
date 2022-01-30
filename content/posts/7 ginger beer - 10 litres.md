@@ -25,4 +25,9 @@ Cool to room temp and SG is: 1.055
 [https://www.brewersfriend.com/abv-calculator/](https://www.brewersfriend.com/abv-calculator/) 
 
 
+## Bottle
+
+30th Jan 2022 - and it was still slowly fermenting!
+
+Put 120g of dissolved into hot water sugar into the 10litres of ginger beer. Then added sweetener to taste. Maybe 50g.
 

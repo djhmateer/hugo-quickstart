@@ -55,5 +55,11 @@ Next time I'll squeeze the bag more and be careful to get all the wort out.
 
 Put into fermenter on 1st Jan 2022.
 
+## Bottled
+
+Did it approx 3 weeks later.
+
+Tried it 1 week after that on 28th of Jan and it was quite bitter.
+
 
 
