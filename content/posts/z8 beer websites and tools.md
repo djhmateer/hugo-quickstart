@@ -20,3 +20,6 @@ Seals:
 
 [https://homebrew.stackexchange.com/](https://homebrew.stackexchange.com/)
 
+## Tools
+
+[https://beersmith.com/](https://beersmith.com/)

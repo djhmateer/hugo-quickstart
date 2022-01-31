@@ -36,11 +36,23 @@ Mash temp: hit 65 degrees
 
 Length: 75mins
 
-
 ## Hoisting Brew Bag and Drain
 
 Target Original Gravity: 1.046
 
-After letting the wort cool to ambient I got:  approx 1.060
+## Fermenting
 
+So I got 25 litres as opposed to 23 litres I was aiming for. Added 2 litres of starter yeast I've now got 27 litres of beer.
 
+After adding my starter yeast, I've got an OG of: 1035
+
+[https://www.northernbrewer.com/blogs/brewing-techniques/increasing-alcohol-content-of-beer-kits](https://www.northernbrewer.com/blogs/brewing-techniques/increasing-alcohol-content-of-beer-kits)
+
+- add DME
+- add sugars
+
+I'm adding some DME to boost OG  gravity.
+
+[https://www.altitudebrew.com/blogs/news/what-to-do-if-you-miss-your-original-gravity-numbers#:~:text=Assuming%20a%205%20gallon%20batch,lbs%20of%20DME%20to%20add.](https://www.altitudebrew.com/blogs/news/what-to-do-if-you-miss-your-original-gravity-numbers#:~:text=Assuming%20a%205%20gallon%20batch,lbs%20of%20DME%20to%20add.) have added 300g of DME, and 300g of sugar.
+didn't boil the dme - just added.
+FG was 1042 which is much better.
