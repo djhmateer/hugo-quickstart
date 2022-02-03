@@ -5,6 +5,7 @@ draft: false
 ---
 
 
+
 This is a recipe from a podcast [http://www.kaiju.fm/by-the-mash-tun/](http://www.kaiju.fm/by-the-mash-tun/), number 36 [here](https://www.kaiju.fm/by-the-mash-tun/36-american-lager/)
 
 
@@ -15,6 +16,9 @@ Ingredients cost £19 + delivery
 ## Live Yeast!
 
 This was my first mistake not realising there was live yeast inside:
+
+[I made a starter](/2022/02/03/yeast-starter/) to make sure the yeast was still good.
+
 
 [![pot](/images/2021-12-30/live.jpg "pot")](/images/2021-12-30/live.jpg)
 
