@@ -1,7 +1,7 @@
 ---
 title: American Lager - Brew 9
 date: 2022-01-30
-draft: true 
+draft: false 
 ---
 
 
@@ -28,7 +28,7 @@ Crisp Flaked Maize (1500 grams)
 
 [https://biabcalculator.com/](https://biabcalculator.com/) 
 
-Strike Water: 30.5 litres for a 22 litre batch size
+Strike Water: 30.5 litres for a 22 litre batch size. This was a mistake (don't know why yet)
 
 Strike temp: 66 degrees
 
@@ -44,15 +44,15 @@ Target Original Gravity: 1.046
 
 So I got 25 litres as opposed to 23 litres I was aiming for. Added 2 litres of starter yeast I've now got 27 litres of beer.
 
-After adding my starter yeast, I've got an OG of: 1035
+After adding my starter yeast, I've got an OG of: 1.035
 
-[https://www.northernbrewer.com/blogs/brewing-techniques/increasing-alcohol-content-of-beer-kits](https://www.northernbrewer.com/blogs/brewing-techniques/increasing-alcohol-content-of-beer-kits)
+[Increasing Alcohol Content](https://www.northernbrewer.com/blogs/brewing-techniques/increasing-alcohol-content-of-beer-kits) provides good background, essentially:
 
-- add DME
-- add sugars
+- Add DME
+- Add sugars
 
-I'm adding some DME to boost OG  gravity.
+[What to do if you miss OG](https://www.altitudebrew.com/blogs/news/what-to-do-if-you-miss-your-original-gravity-numbers#:~:text=Assuming%20a%205%20gallon%20batch,lbs%20of%20DME%20to%20add.) has some good tip, and I added 300g of DME, and 300g of sugar.
 
-[https://www.altitudebrew.com/blogs/news/what-to-do-if-you-miss-your-original-gravity-numbers#:~:text=Assuming%20a%205%20gallon%20batch,lbs%20of%20DME%20to%20add.](https://www.altitudebrew.com/blogs/news/what-to-do-if-you-miss-your-original-gravity-numbers#:~:text=Assuming%20a%205%20gallon%20batch,lbs%20of%20DME%20to%20add.) have added 300g of DME, and 300g of sugar.
-didn't boil the dme - just added.
-FG was 1042 which is much better.
+I didn't boil the DME - just added it. After some stirring of lumps (I will boil it next time to get rid of lumps and to dissolve the sugar) I got an OG of 1.042 which is much closer to the target of 1.046. 
+
+After a few days at around 12 degrees (max) fermentation has not started yet which is worrying.
