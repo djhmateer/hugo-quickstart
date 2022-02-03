@@ -59,4 +59,6 @@ After adding my starter yeast, I've got an OG of: 1.035
 
 I didn't boil the DME - just added it. After some stirring of lumps (I will boil it next time to get rid of lumps and to dissolve the sugar) I got an OG of 1.042 which is much closer to the target of 1.046. 
 
+[![pot](/images/2022-02-03/lager.jpg "pot")](/images/2022-02-03/lager.jpg)
+
 After a few days at around 12 degrees (max) fermentation has not started yet which is worrying.
