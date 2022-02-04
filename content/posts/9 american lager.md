@@ -27,6 +27,7 @@ I didn't see the sticker
 [![pot](/images/2021-12-30/wyeast.jpg "pot")](/images/2021-12-30/wyeast.jpg)
 
 ## Mash
+
 Dingemans Pilsen Malt (3000 grams)
 Crisp Flaked Maize (1500 grams)
 
@@ -61,4 +62,8 @@ I didn't boil the DME - just added it. After some stirring of lumps (I will boil
 
 [![pot](/images/2022-02-03/lager.jpg "pot")](/images/2022-02-03/lager.jpg)
 
+Went into the fermenter on Sunday 30th Jan 2022.
+
 After a few days at around 12 degrees (max) fermentation has not started yet which is worrying.
+
+It started after 4 days on Thursday 3rd Feb and was bubbling every 30 secs on the Friday.
