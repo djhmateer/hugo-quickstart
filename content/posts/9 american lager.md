@@ -4,8 +4,6 @@ date: 2022-01-30
 draft: false 
 ---
 
-
-
 This is a recipe from a podcast [http://www.kaiju.fm/by-the-mash-tun/](http://www.kaiju.fm/by-the-mash-tun/), number 36 [here](https://www.kaiju.fm/by-the-mash-tun/36-american-lager/)
 
 
@@ -67,3 +65,13 @@ Went into the fermenter on Sunday 30th Jan 2022.
 After a few days at around 12 degrees (max) fermentation has not started yet which is worrying.
 
 It started after 4 days on Thursday 3rd Feb and was bubbling every 30 secs on the Friday.
+
+## Bottling
+
+[https://www.hopsteiner.com/co2-calculator/](https://www.hopsteiner.com/co2-calculator/)
+
+[https://byo.com/article/master-the-action-carbonation/](https://byo.com/article/master-the-action-carbonation/) 
+
+I went for 2.6 CO2 volume which is 180g of sugar.
+
+FG was 1014 after I added a bit of priming sugar, and tharger was 1009 (giving 4.8%), so I'll probably get around 4%

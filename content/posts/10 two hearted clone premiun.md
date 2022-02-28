@@ -55,3 +55,11 @@ Additions
 
 Target Original Gravity: 1.063
 
+After cooling overnight I got 1082. 
+
+However I did have to add extra water as calculations were off
+
+fermenter #1 (mine) - 16 litres up to 19 litres
+
+fermenter #2 (Andys) - 14 litres up to 19 litres. No airlock
+
