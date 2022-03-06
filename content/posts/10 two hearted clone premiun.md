@@ -9,7 +9,6 @@ draft: false
 
 Ingredients cost £32 + delivery
 
-[![pot](/images/2022-02-27/spot.jpg "spot")](/images/2022-02-27/spot.jpg)
 
 ## Mash
 
@@ -20,6 +19,8 @@ I'm doing a double batch
 I've got a 50 litre pot (to the brim)
 
 23+15 = 38 litres of strike water. I'm going to have to sparge.
+
+[![pot](/images/2022-02-27/mash.jpg "mash")](/images/2022-02-27/mash.jpg)
 
 36 litres would have been better, then top up after done all stirring to get rid of clumps.
 
@@ -62,4 +63,14 @@ However I did have to add extra water as calculations were off
 fermenter #1 (mine) - 16 litres up to 19 litres
 
 fermenter #2 (Andys) - 14 litres up to 19 litres. No airlock
+
+## Fermenter
+
+Went in on 27th of Feb 2022
+
+[![pot](/images/2022-02-27/hop.jpg "mash")](/images/2022-02-27/hop.jpg)
+
+Put in 100g centennial on Day 7. It was about 136g as had some left over.
+
+
 

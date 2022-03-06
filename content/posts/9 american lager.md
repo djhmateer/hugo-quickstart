@@ -68,10 +68,22 @@ It started after 4 days on Thursday 3rd Feb and was bubbling every 30 secs on th
 
 ## Bottling
 
+Bottle date was: Sat 26th Feb 2022.
+
 [https://www.hopsteiner.com/co2-calculator/](https://www.hopsteiner.com/co2-calculator/)
 
 [https://byo.com/article/master-the-action-carbonation/](https://byo.com/article/master-the-action-carbonation/) 
 
 I went for 2.6 CO2 volume which is 180g of sugar.
 
-FG was 1014 after I added a bit of priming sugar, and tharger was 1009 (giving 4.8%), so I'll probably get around 4%
+FG was 1014 after I added a bit of priming sugar, and target was 1009 (giving 4.8%), so I'll probably get around 4%
+
+[![pot](/images/2022-02-03/bottles.jpg "pot")](/images/2022-02-03/bottles.jpg)
+
+Cleaning bottles. Thank you Gary!
+
+[![pot](/images/2022-02-03/cap.jpg "pot")](/images/2022-02-03/cap.jpg)
+
+The new capping machine. Surprising how hard you need to press, then it is obvious when it goes on properly.
+
+[Steel Bench Top Crown Capper](https://www.themaltmiller.co.uk/product/steel-bench-top-crown-capper/) bought for £28.
