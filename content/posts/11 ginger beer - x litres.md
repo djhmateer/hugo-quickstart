@@ -1,6 +1,6 @@
 ---
-title: Ginger Beer - 10 litres - Brew 7
-date: 2021-12-30
+title: Ginger Beer - 28 litres - Brew 7
+date: 2022-03-13
 draft: false 
 ---
 
@@ -45,7 +45,6 @@ Cool to room temp and SG is: 1045ish
 [https://www.brewersfriend.com/abv-calculator/](https://www.brewersfriend.com/abv-calculator/) 
 
 I only got 28 litres (as guessed the amount of water to add). Strange that SG looked about right.
-
 
 
 ## Bottle
