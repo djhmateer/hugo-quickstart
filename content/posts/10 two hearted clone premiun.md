@@ -73,9 +73,21 @@ Went in on 27th of Feb 2022
 Put in 100g centennial on Day 7. It was about 136g as had some left over.
 
 
-## Conditioning
+## Bottling and Conditioning
 
-FG is:
+[![pot](/images/2022-02-27/bottle.jpg "mash")](/images/2022-02-27/bottle.jpg)
 
-130g of sugar (sucrose) per 20l batch for 
+20th March (so 3 weeks fermentation)
+
+Mixed up the 2 fermenters into a keg and bottles.
+
+FG is: 1010
+
+[https://www.hopsteiner.com/co2-calculator/](https://www.hopsteiner.com/co2-calculator/)
+
+[https://byo.com/article/master-the-action-carbonation/](https://byo.com/article/master-the-action-carbonation/) 
+
+130g of sugar (sucrose) per 20l batch for 2.6 O2
+
+
 
