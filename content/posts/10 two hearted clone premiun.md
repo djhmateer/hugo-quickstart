@@ -73,4 +73,9 @@ Went in on 27th of Feb 2022
 Put in 100g centennial on Day 7. It was about 136g as had some left over.
 
 
+## Conditioning
+
+FG is:
+
+130g of sugar (sucrose) per 20l batch for 
 
