@@ -1,5 +1,5 @@
 ---
-title: Coopers Lager Home Brew Beer 
+title: Coopers Lager Home Brew Beer - Brew 2
 date: 2021-02-28
 draft: false
 ---

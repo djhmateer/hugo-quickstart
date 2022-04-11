@@ -1,5 +1,5 @@
 ---
-title: Belgian Blonde - Leffe clone
+title: Belgian Blonde - Leffe clone - Brew 3
 date: 2021-10-05
 draft: false 
 ---

@@ -87,3 +87,10 @@ Cleaning bottles. Thank you Gary!
 The new capping machine. Surprising how hard you need to press, then it is obvious when it goes on properly.
 
 [Steel Bench Top Crown Capper](https://www.themaltmiller.co.uk/product/steel-bench-top-crown-capper/) bought for £28.
+
+## Drinking
+
+I found that the beer still tasted sweet after a few weeks.
+
+However at the beginning of April it is delicious! So about 11 weeks this has taken. 3 weeks in the fermenter, then 2 months conditioning in the bottle.
+

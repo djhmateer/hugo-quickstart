@@ -1,5 +1,5 @@
 ---
-title: "How to get started home brewing beer - Woodfordes Wherry"
+title: How to get started home brewing beer - Woodfordes Wherry - Brew 1
 date: 2021-01-24T18:20:12Z
 draft: false
 ---
