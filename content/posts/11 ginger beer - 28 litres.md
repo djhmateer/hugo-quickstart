@@ -49,4 +49,6 @@ I only got 28 litres (as guessed the amount of water to add). Strange that SG lo
 
 ## Bottle
 
+18th April and it is still fermenting! Started on the 13th of March. Wow going after 1 month.
+
 
