@@ -31,3 +31,6 @@ Cool to room temp and SG is: 1.055
 
 Put 120g of dissolved into hot water sugar into the 10litres of ginger beer. Then added sweetener to taste. Maybe 50g.
 
+
+
+

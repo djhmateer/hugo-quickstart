@@ -94,3 +94,6 @@ I found that the beer still tasted sweet after a few weeks.
 
 However at the beginning of April it is delicious! So about 11 weeks this has taken. 3 weeks in the fermenter, then 2 months conditioning in the bottle.
 
+I'd rate this as my joint best beer I've made along with
+ [2 hearted clone](/2021/11/20/two-hearted-clone-america-ipa-brew-5/)..
+

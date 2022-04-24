@@ -51,4 +51,11 @@ I only got 28 litres (as guessed the amount of water to add). Strange that SG lo
 
 18th April and it is still fermenting! Started on the 13th of March. Wow going after 1 month.
 
+24th April was still fermenting a bit. But after 5 weeks I'd like to bottle and am fine with a bit of extra carbonation happening.
 
+All up I have 24 litres.
+
+
+Dissolving 250g of sugar for priming. That gives us CO2 volume of 3.6
+
+Sweetener was 50g for 10l, so maybe 130g sweeter.

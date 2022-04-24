@@ -1,11 +1,12 @@
 ---
 title: Own Recipe - Brew 12 
-date: 2022-04-18
+date: 2022-04-24
 draft: true 
 ---
 
 [Brewfather.app](https://brewfather.app/) is the software I'm trialling to help me make recipes and keep stock of ingredients.
 
+[SMaSH](https://www.themaltmiller.co.uk/blog/smash-brewing/)
 
 Maris Otter malt from [longman](https://www.longmanbrewery.com/)
 
@@ -21,4 +22,51 @@ Maris Otter malt from [longman](https://www.longmanbrewery.com/)
 [https://www.themaltmiller.co.uk/product/rustic-german-lager-kellerpils/](https://www.themaltmiller.co.uk/product/rustic-german-lager-kellerpils/) German lager. 28g hops (but needs more to hit IBU). 2 weeks ferment at 15. 5 weeks lager at 2.
 
 
+## Mash
+
+I've got a 30 litre fermenter bucket so lets max it out
+
+34 litres of strike water
+
+It takes me time to get everything setup, so I'm happy to brew as much as possible. Even if I have to throw it away.
+
+Aim for 4.5% lager
+
+4.7kg for 5% at 19litres hitting OG of 1051
+
+4.5kg for 4.8% at 22litres hitting og of 1046, which is 204g per litre
+
+I want 30litres so 6.1kg. Call it 6kg as I want less ABV.
+
+Will aim for mash at 66 and 75mins.
+
+My OG at ambient temp is: 1044 which is almost perfect as I wanted 1046 for 30 litres. Will see how much I've actually got.
+
+efficiency
+
+## Boil
+
+Hops - amercian lager only has 27g
+
+Some others has 60, 15, 5... 94g with dry hop day 5
+
+Some have 60g.. half at boil, half at flame out.
+40g is delicate hop
+30g too - half up front, half at flame out
+
+
+boil time: 60
+
+target - intense aroma
+challenger - british ales and lagers
+columbus - american ipa
+first gold - my own crop. british. multiple uses
+
+
+beginning of the boil for bitterness
+end of boil for aroma
+
+10 first gold at 60
+15 first gold at 30
+25 challenger at 0
 
