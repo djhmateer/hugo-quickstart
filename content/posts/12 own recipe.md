@@ -1,7 +1,7 @@
 ---
 title: Own Recipe - Brew 12 
 date: 2022-04-24
-draft: true 
+draft: false 
 ---
 
 [Brewfather.app](https://brewfather.app/) is the software I'm trialling to help me make recipes and keep stock of ingredients.

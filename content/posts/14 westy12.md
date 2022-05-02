@@ -1,7 +1,7 @@
 ---
 title: Westy 12 - Brew 14 
 date: 2022-05-01
-draft: true 
+draft: false 
 ---
 
 
@@ -17,5 +17,6 @@ Bought ingredients arrived on 30th April
 
 Aimed for 1.090 OG, got 1.085 - forgot my efficiency would be lower for a big brew.
 End up with 18 litres, and pitched a 2L starter of the WLP530.
+
 
 
