@@ -1,5 +1,5 @@
 ---
-title: Muntons Tap Room - Tropical IPA - Extract 
+title: Muntons Tap Room - Tropical IPA Extract Kit - Brew 13
 date: 2022-05-01
 draft: true 
 ---
