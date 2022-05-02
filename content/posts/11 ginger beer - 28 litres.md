@@ -55,7 +55,10 @@ I only got 28 litres (as guessed the amount of water to add). Strange that SG lo
 
 All up I have 24 litres.
 
-
 Dissolving 250g of sugar for priming. That gives us CO2 volume of 3.6
 
 Sweetener was 50g for 10l, so maybe 130g sweeter.
+
+## Drinking
+
+30th of April (6 days after bottling) I tried one, and it is good.. not quite enough carbonation yet, but drinkable! Quite strong alcohol content.

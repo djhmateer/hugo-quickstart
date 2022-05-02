@@ -70,3 +70,6 @@ end of boil for aroma
 15 first gold at 30
 25 challenger at 0
 
+## Ferment
+
+Went into fermenter on the 25th of April. I pitched 2 packets of the W34/70 lager yeast. After a day or two it was bubbling very nicely. 6 days later and it is still fermenting well.
