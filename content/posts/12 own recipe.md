@@ -44,6 +44,9 @@ My OG at ambient temp is: 1044 which is almost perfect as I wanted 1046 for 30 l
 
 efficiency
 
+
+[![pot](/images/2022-05-04/grain.jpg "mash")](/images/2022-05-04/grain.jpg)
+
 ## Boil
 
 Hops - amercian lager only has 27g
@@ -66,9 +69,11 @@ first gold - my own crop. british. multiple uses
 beginning of the boil for bitterness
 end of boil for aroma
 
-10 first gold at 60
-15 first gold at 30
-25 challenger at 0
+- 10 first gold at 60
+- 15 first gold at 30
+- 25 challenger at 0
+
+[![pot](/images/2022-05-04/boil.jpg "mash")](/images/2022-05-04/boil.jpg)
 
 ## Ferment
 
