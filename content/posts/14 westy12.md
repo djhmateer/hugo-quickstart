@@ -21,27 +21,28 @@ and thanks to Richard for the malt ratios below
 ## Mash
 
 Aiming for about a 19 litre batch
-65% Dingemans Pilsner malt (5kg)
-13% Weyermann Munich (1kg)
-5% Dingemans Special B (0.4kg)
-4% Weyermann Caramunich (0.3kg)
-3% Dingemans Wheat Malt (0.25kg)
-3% Bestmalz Melanoidin (0.2kg)
 
-- temp 67 for 75 mins
+- 65% Dingemans Pilsner malt (5kg)
+- 13% Weyermann Munich (1kg)
+- 5% Dingemans Special B (0.4kg)
+- 4% Weyermann Caramunich (0.3kg)
+- 3% Dingemans Wheat Malt (0.25kg)
+- 3% Bestmalz Melanoidin (0.2kg)
+
+Temperatures
+
+- 67 for 75 mins (went down to 62)
 - at 25 minutes bring to 73 degrees
 
 ## Boil
 
 90 minute boil
 
-60 minutes hops bittering - using Target 20g (as that is all I have)
-30 mins - Columbus 20g (as have that as well)
-0 (should have been 15) mins - Columbus 20g
+- 60 minutes hops bittering - using Target 20g (as that is all I have)
+- 30 mins - Columbus 20g (as have that as well)
+- 0 (should have been 15) mins - Columbus 20g
 
 7% Dark Candi Sugar (0.5kg) added at 10 minutes
-
-***
 
 ## Starter
 
