@@ -1,22 +1,75 @@
 ---
 title: Westy 12 - Brew 14 
-date: 2022-05-01
+date: 2022-05-15
 draft: false 
 ---
 
+My recipe is an amalgemation of
 
-Bought ingredients arrived on 30th April
+[![pot](/images/2022-05-15/bookc.JPG "mash")](/images/2022-05-15/bookc.JPG)
 
+[![pot](/images/2022-05-15/bookb.JPG "mash")](/images/2022-05-15/bookb.JPG)
+
+[![pot](/images/2022-05-15/booka.JPG "mash")](/images/2022-05-15/booka.JPG)
+
+and
+
+[https://recipe.brewfather.app/9v0Aj0eeNV7PWXyi550SgjKI2Pln3C](https://recipe.brewfather.app/9v0Aj0eeNV7PWXyi550SgjKI2Pln3C)
+
+and thanks to Richard for the malt ratios below
+
+## Mash
+
+Aiming for about a 19 litre batch
 65% Dingemans Pilsner malt (5kg)
 13% Weyermann Munich (1kg)
-7% Dark Candi Sugar (0.5kg)
 5% Dingemans Special B (0.4kg)
 4% Weyermann Caramunich (0.3kg)
 3% Dingemans Wheat Malt (0.25kg)
 3% Bestmalz Melanoidin (0.2kg)
 
+- temp 67 for 75 mins
+- at 25 minutes bring to 73 degrees
+
+## Boil
+
+90 minute boil
+
+60 minutes hops bittering - using Target 20g (as that is all I have)
+30 mins - Columbus 20g (as have that as well)
+0 (should have been 15) mins - Columbus 20g
+
+7% Dark Candi Sugar (0.5kg) added at 10 minutes
+
+***
+
+## Starter
+
+The WLP530 from White Labs suggest for beers > 1065 I should have 2l of starter for 20l. I'm doing that but only have about 24 hours really, but I figure this is better than nothing, and wont stress the yeast as much.
+
+Am using 200g of DME for 2litres of starter. Boiled up for 15 minutes, cooled to room, then pitched. 20 -26 degrees is optimum fermenting temps.
+
+## Ferment
+
+Allowed to cool overnight.
+
+OG is:   Was aiming for 1090
+
+Final amount of wort is:  Was aiming for 19litres
+
+2 weeks at least
+
+
+## Carbonate
+
+3.4 CO2/vol
+
+## Foo
+
+
 Aimed for 1.090 OG, got 1.085 - forgot my efficiency would be lower for a big brew.
 End up with 18 litres, and pitched a 2L starter of the WLP530.
+
 
 
 

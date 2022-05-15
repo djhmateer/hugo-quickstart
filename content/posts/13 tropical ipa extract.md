@@ -29,6 +29,9 @@ Wait for fermentation to end - FG should be 1014
 
 ## Bottle
 
+Should be bottling on 15th May.
+
+
 Add sugar
 
 2 days warm.

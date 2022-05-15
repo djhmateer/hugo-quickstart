@@ -13,7 +13,7 @@ Maris Otter malt from [longman](https://www.longmanbrewery.com/)
 [SafLager W-34/70](https://www.amazon.co.uk/Fermentis-SafLager-Brewers-Sachets-Fermentation/dp/B08J1BRWZ4/ref=sr_1_5) for about £5 each. [more info on brewuk](https://www.brewuk.co.uk/safale-w-34-70-yeast.html) essentially a popular lager yeast.
 
 
-## recipes
+## Recipes
 
 [https://recipes.brewuk.co.uk/view-recipe/321](https://recipes.brewuk.co.uk/view-recipe/321) - includes some crystal. About 90g of hops. Vienna Lager.
 
@@ -78,3 +78,16 @@ end of boil for aroma
 ## Ferment
 
 Went into fermenter on the 25th of April. I pitched 2 packets of the W34/70 lager yeast. After a day or two it was bubbling very nicely. 6 days later and it is still fermenting well.
+
+## Bottle
+
+15th May bottle. Just under 3 weeks in fermenter
+
+[https://www.hopsteiner.com/co2-calculator/](https://www.hopsteiner.com/co2-calculator/) I am aiming high for carbonation of 3.2 CO2 volume.
+
+
+So for 30litres, I need 265g of sugar.
+
+
+
+
