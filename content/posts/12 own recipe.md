@@ -79,12 +79,11 @@ end of boil for aroma
 
 Went into fermenter on the 25th of April. I pitched 2 packets of the W34/70 lager yeast. After a day or two it was bubbling very nicely. 6 days later and it is still fermenting well.
 
-## Bottle
+## Bottle and Keg
 
-15th May bottle. Just under 3 weeks in fermenter
+15th May bottle and put into keg. Just under 3 weeks in fermenter
 
 [https://www.hopsteiner.com/co2-calculator/](https://www.hopsteiner.com/co2-calculator/) I am aiming high for carbonation of 3.2 CO2 volume.
-
 
 So for 30litres, I need 265g of sugar.
 
