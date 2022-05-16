@@ -54,22 +54,18 @@ Am using 200g of DME for 2litres of starter. Boiled up for 15 minutes, cooled to
 
 Allowed to cool overnight.
 
-OG is:   Was aiming for 1090
+OG is:   Was aiming for 1090 and got 1065?
 
-Final amount of wort is:  Was aiming for 19litres
+Final amount of wort is:  Was aiming for 19litres and ended up with 26L + 2L for yeast starter and some extra DME and Sugar
+
+Added 400g of DME and 700g of Sugar to try and up the gravity.
 
 2 weeks at least
-
 
 ## Carbonate
 
 3.4 CO2/vol
 
-## Foo
-
-
-Aimed for 1.090 OG, got 1.085 - forgot my efficiency would be lower for a big brew.
-End up with 18 litres, and pitched a 2L starter of the WLP530.
 
 
 
