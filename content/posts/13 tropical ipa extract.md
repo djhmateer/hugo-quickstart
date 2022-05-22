@@ -29,10 +29,9 @@ Wait for fermentation to end - FG should be 1014
 
 ## Bottle
 
-Should be bottling on 15th May.
+Should be bottling on 15th May, but ended up on 22nd as fermentation was keeping going.
 
-
-Add sugar
+[https://www.hopsteiner.com/co2-calculator/](https://www.hopsteiner.com/co2-calculator/) going for 2.4 CO2 vols. so 106g of sugar.
 
 2 days warm.
 
