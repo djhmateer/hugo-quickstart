@@ -81,11 +81,16 @@ Went into fermenter on the 25th of April. I pitched 2 packets of the W34/70 lage
 
 ## Bottle and Keg
 
-15th May bottle and put into keg. Just under 3 weeks in fermenter
-
 [https://www.hopsteiner.com/co2-calculator/](https://www.hopsteiner.com/co2-calculator/) I am aiming high for carbonation of 3.2 CO2 volume.
 
-So for 30litres, I need 265g of sugar.
+So for 30litres, I need 265g of sugar
+
+
+15th May bottle and put into keg. Just under 3 weeks in fermenter
+
+Tasted it and it is a bit sweet, but drinkable. Needs time
+
+22nd May the bottles are going outside to condition.
 
 
 

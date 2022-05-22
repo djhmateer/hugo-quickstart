@@ -37,5 +37,4 @@ Should be bottling on 15th May, but ended up on 22nd as fermentation was keeping
 
 Then 14 days below 15 degrees or until beer has cleared.
 
-
-
+[![pot](/images/2022-05-04/bot.jpg "mash")](/images/2022-05-04/bot.jpg)
