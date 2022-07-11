@@ -60,11 +60,14 @@ Final amount of wort is:  Was aiming for 19litres and ended up with 26L + 2L for
 
 Added 400g of DME and 700g of Sugar to try and up the gravity.
 
-2 weeks at least
+[![pot](/images/2022-05-15/pot.jpg "pot")](/images/2022-05-15/pot.jpg)
 
-## Carbonate
+11th July update. After 7 weeks in the fermenter... I found that my overflow pot tasted horrible and had gone off. Vinegar taste horribleness that wouldn't go out my mouth for 20 minutes.
 
-3.4 CO2/vol
+So never put beer into a pot to ferment?
+
+
+
 
 
 
