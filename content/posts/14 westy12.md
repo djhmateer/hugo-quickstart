@@ -66,7 +66,15 @@ Added 400g of DME and 700g of Sugar to try and up the gravity.
 
 So never put beer into a pot to ferment?
 
+17th July - it is still fermenting, but I'm putting in bottles anyway. 
 
+FG is 1015
+
+aiming for a 2.7CO2 vol
+
+[https://www.hopsteiner.com/co2-calculator/](https://www.hopsteiner.com/co2-calculator/)
+
+So 147g of sugar
 
 
 

@@ -23,4 +23,5 @@ Got 20.5 litres. FG was 1008
 
 Going for 2.8CO2 vol, so 150g of sugar.
 
+17th July - not ready yet. not enough CO2 even though high temperatures outside (26+ degree days)
 
