@@ -15,7 +15,7 @@ draft: false
 
 [![pot](/images/2022-07-18/jug.jpg "buckets")](/images/2022-07-18/jug.jpg)
 
-- used some straining cloth and squeezed with my hands
+- used some [straining cloth](https://www.amazon.co.uk/straining-cloth/s?k=straining+cloth) and squeezed with my hands
 
 It is amazing how easy it is to make very good apple juice. Our tree is more of a cooking apple tree, but even so, the juice was very drinkable.
 
