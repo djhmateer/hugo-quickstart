@@ -19,4 +19,12 @@ draft: false
 
 It is amazing how easy it is to make very good apple juice. Our tree is more of a cooking apple tree, but even so, the juice was very drinkable.
 
+## Cider
+
+1/4 teaspoon of sodium metabisulphate - to hopefully stop any off flavour yeast cultures.
+
+EC-1118 yeast which should be fermented [low and slow](https://www.homebrewtalk.com/threads/lager-yeast-for-cider.378008/) hmmm which could be a problem as it is hot here. 35 degrees day time. 24 average coming up. Maybe will ferment outside.
+
+
+[![pot](/images/2022-07-18/cider.jpg "buckets")](/images/2022-07-18/cider.jpg)
 
