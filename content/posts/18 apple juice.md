@@ -28,3 +28,11 @@ EC-1118 yeast which should be fermented [low and slow](https://www.homebrewtalk.
 
 [![pot](/images/2022-07-18/cider.jpg "buckets")](/images/2022-07-18/cider.jpg)
 
+## 12 days later
+
+No fermentation is happening! Perhaps hot temperatures, too much sodium metabisulphate in the original 4 litres. 
+
+[![pot](/images/2022-07-18/2.jpg "buckets")](/images/2022-07-18/2.jpg)
+
+So I'm adding more EC-1118 yeast now that I've got 20 litres.
+
