@@ -6,7 +6,6 @@ draft: false
 
 [https://www.brewersfriend.com/homebrew/recipe/view/1289160/kingston-jpa](https://www.brewersfriend.com/homebrew/recipe/view/1289160/kingston-jpa) 
 
-
 ## Mash
 
 [https://biabcalculator.com/](https://biabcalculator.com/) 
@@ -44,7 +43,11 @@ Got 20 litres which is about perfect for this recipe.
 
 ## Bottle and Keg
 
-FG is
+FG is 1006
+
+Bottled on 22nd Sept.  So 7 weeks in the fermenter. Hops have been in there all the time. d
+[https://www.hopsteiner.com/co2-calculator/](https://www.hopsteiner.com/co2-calculator/)  - 2.7 CO2 at 133g added for 19l
+
 
 
 
