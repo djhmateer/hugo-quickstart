@@ -1,5 +1,5 @@
 ---
-title: Apple Juice - Brew 18
+title: Cider with Blender and Apple Juice - Brew 18
 date: 2022-07-18
 draft: false 
 ---
@@ -35,4 +35,16 @@ No fermentation is happening! Perhaps hot temperatures, too much sodium metabisu
 [![pot](/images/2022-07-18/2.jpg "buckets")](/images/2022-07-18/2.jpg)
 
 So I'm adding more EC-1118 yeast now that I've got 20 litres.
+
+## Bottling
+
+2 months it sat in the fermenter.
+
+FG is 1002
+
+Tastes really good! Not too dry.
+
+[https://www.hopsteiner.com/co2-calculator/](https://www.hopsteiner.com/co2-calculator/) going for 2.6 CO2 vols. So 13 litres will need 85g of sugar. Also added 20g of sweetener.
+
+Am trying some cider flat, and may use the sodastream to carbonate.
 

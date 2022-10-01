@@ -27,5 +27,8 @@ OG was 1048
 
 I'm not adding any yeast and letting the natural yeast ferment this. Have got it at 18degrees (room temperature) and will see how long it takes to start fermenting.
 
+## Bottling
+
+
 
 

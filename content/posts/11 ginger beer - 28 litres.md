@@ -55,7 +55,7 @@ I only got 28 litres (as guessed the amount of water to add). Strange that SG lo
 
 All up I have 24 litres.
 
-Dissolving 250g of sugar for priming. That gives us CO2 volume of 3.6
+Dissolving 250g of sugar for priming. That gives us CO2 volume of 3.6. This was too much and I had exploding bottles. 2.6 CO2 would be better
 
 Sweetener was 50g for 10l, so maybe 130g sweeter.
 

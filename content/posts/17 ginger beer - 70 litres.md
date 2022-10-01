@@ -55,3 +55,10 @@ I used 2 packets in each fermenter to try and get a faster fermentation happenin
 
 ## Bottle
 
+[https://www.hopsteiner.com/co2-calculator/](https://www.hopsteiner.com/co2-calculator/) 2.6 CO2
+
+so 128g of sugar for priming for 20 litres
+
+100g of sweetener
+
+FG is 1000!
