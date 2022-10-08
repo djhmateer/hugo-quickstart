@@ -25,7 +25,7 @@ It was lovely doing this with a group of friends (and kids helping)
 
 OG was 1048
 
-I'm not adding any yeast and letting the natural yeast ferment this. Have got it at 18degrees (room temperature) and will see how long it takes to start fermenting.
+I'm not adding any yeast and letting the natural yeast ferment this. Have got it at 18degrees (room temperature) and will see how long it takes to start fermenting. It took 2 to 3 days. A week after it started and it is still fermenting well.
 
 ## Bottling
 
