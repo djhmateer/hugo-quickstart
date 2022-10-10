@@ -1,5 +1,5 @@
 ---
-title: Cider with a scratter - Brew 20 
+title: Cider with a scratter - 35 litres - Brew 21
 date: 2022-10-02
 draft: false 
 ---
