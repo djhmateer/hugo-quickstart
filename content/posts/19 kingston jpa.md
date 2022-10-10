@@ -53,6 +53,11 @@ Bottled on 22nd Sept.  So 7 weeks in the fermenter. Hops have been in there all 
 
 [https://www.hopsteiner.com/co2-calculator/](https://www.hopsteiner.com/co2-calculator/)  - 2.7 CO2 at 133g added for 19l
 
+## Tasting
+
+8th October.
+
+Well, it is huge. Sort of wakes you up with a zing. No grassy notes from too many hops / been left in too long.
 
 
 
