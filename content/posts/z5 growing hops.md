@@ -38,3 +38,18 @@ After 7 days there is no action on the cuttings, and everything looks quite shri
 I hope this spot will work. Partially shaded. 19th April 2021. The frosts have just stopped.
 
 Looking back on these instructions I don't think my hole was deep enough. Was probably about 30cm.
+
+
+## 2021 harvest
+
+17th sept harvested
+
+70g with bag and hops
+
+dried was probably 25g
+
+## 2022 harvest
+
+got 20g of dried hops
+
+
