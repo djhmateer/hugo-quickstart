@@ -100,6 +100,10 @@ clearing the blockage in the pump - maybe hop leaf got into the Boil Kettle
  Yeast: [WHC Lab Saturated](https://whclab.com/product/dehydrated-saturated-dried-yeast-500g/)
   18-22 degrees
 
+[![pot](/images/2022-10-08/14.jpg "final product")](/images/2022-10-08/14.jpg)
+
+Very dark, and we ended up adding treated water to give us 1062 at about 80 litres
+
 ## Ferment
 
 [![pot](/images/2022-10-08/13.jpg "fermenter")](/images/2022-10-08/13.jpg)
