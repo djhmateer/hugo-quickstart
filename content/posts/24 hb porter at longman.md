@@ -12,7 +12,7 @@ Many thanks to [Longman Brewery](https://www.longmanbrewery.com/) and their head
 
 OG: 1.062
 
-PG (?): 1.016
+PG: 1.016 (proposed final gravity?)
 
 Volume: 100 litres / 20litres (have added the 20litre amounts to help me)
 
