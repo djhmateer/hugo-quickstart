@@ -62,7 +62,7 @@ Plate chiller in the centre. Amazing how fast it can cool 80 litres
 
 
 [![pot](/images/2022-10-08/10.jpg "malt")](/images/2022-10-08/10.jpg)
-adding the malts
+adding the malts - mashing in at 68C
 
 
 [![pot](/images/2022-10-08/8.jpg "choosing hops")](/images/2022-10-08/8.jpg)
