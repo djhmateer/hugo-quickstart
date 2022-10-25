@@ -25,3 +25,7 @@ Going for 2.8CO2 vol, so 150g of sugar.
 
 17th July - not ready yet. not enough CO2 even though high temperatures outside (26+ degree days)
 
+## bottle burst
+
+25th October - noticed that one of the bottles has exploded. Had been in a hot summer house all summer. Other bottles have been fine.
+

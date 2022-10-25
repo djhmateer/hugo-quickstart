@@ -23,6 +23,12 @@ Fermentation started again after a few days (natural yeast)
 
 ## Bottling
 
+25th October 2022 - so it has been fermenting for 3 weeks
+
+FG is 1000 - wow!
+
+
+
 
 
 
