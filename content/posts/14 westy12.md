@@ -76,7 +76,9 @@ aiming for a 2.7CO2 vol
 
 So 147g of sugar
 
+## 5 months later
 
+This is one of my favourite beers to drink! It is a bit cloudy, but like a dessert in a glass. Beautiful. And very strong.
 
 
 
