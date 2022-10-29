@@ -114,5 +114,15 @@ Notice no airlock, and have cracked the lid too.
 
 FG was: 1023 - I think it is still fermenting. So am leaving another week at 18 degrees to see if it will finish. Smells and tasted really good.
 
+
+## Bottle
+
+28th Oct 2022, FG was 1016 which is expected. So it took just under 3 weeks to ferment to FG.
+
+Tasted the beer and it was lovely
+
 [https://www.hopsteiner.com/co2-calculator/](https://www.hopsteiner.com/co2-calculator/)  - 2.6 CO2 - need 65g of sucrose
 
+[![pot](/images/2022-10-08/15.jpg "bottled")](/images/2022-10-08/15.jpg)
+
+I've got 1 plastic bottle so can tell how much CO2 is there by squeezing it.
