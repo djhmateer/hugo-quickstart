@@ -42,9 +42,18 @@ Make something easy to get right.
 
 From the [Greg Hughes - Home Brew Beer book](https://www.amazon.co.uk/Home-Brew-Beer-Greg-Hughes/dp/1409331768) the simplest recipes are:
 
-- Strong Belgian (I like!)
+- Strong Belgian Dark Strong ale quad (I like!). At least 2-3 months. 
 - Bitter (crowd pleaser)
-- Pale Ale (maybe go juicy ECIPA as thats what I like)
+- Pale Ale (not juicy ECIPA as technical needing low exposure to O2)
+
+## YouTube - Belgian Quad
+
+[https://www.youtube.com/watch?v=g43DH8FpGdE](https://www.youtube.com/watch?v=g43DH8FpGdE)
+
+**best beer he has ever made
+
+
+
 
 ## YouTube - AIPA
 
@@ -69,6 +78,7 @@ serve in 10 days
 
 
 ## YouTube - Belgian Golden Strong
+
 
 [https://www.youtube.com/watch?v=RnloOt_TwqE&list=PLe0ZUhBOXP-dHrFhpln-grAJAEI-J42Tk&index=3](https://www.youtube.com/watch?v=RnloOt_TwqE&list=PLe0ZUhBOXP-dHrFhpln-grAJAEI-J42Tk&index=3)
 
@@ -152,6 +162,67 @@ Malt is:
 Yeast
 
 - US-05
+
+## All in One Brewing Systems
+
+[https://www.youtube.com/watch?v=CRmeiSrwq54](https://www.youtube.com/watch?v=CRmeiSrwq54) Part 1 of 3 part. UK. 2019. David Heath Homebrew. 53k subscribers.
+
+### Part 1 - Budget
+
+Robobrew Brewzilla 35litre gen 3.1. Australian. £400. Gen 4 is coming soon early 2023
+
+15-30litres
+Step mashing - 6 steps
+max grain bill - 7.5KG
+
+fast heat up
+false bottom
+good temp probe
+no cooler.. is there a pump?
+
+
+## Part 2 - Middle Market
+Grainfather 30l - about £750
+ 15 to 25litres
+ 7.5kg max grain
+4 mash steps
+ added a false bottom in tandem with supplied filter as it is a small standard filter
+  and replaced screw fittings with camlocks
+	smart controller so can put stuff onto 
+	   but a bit dodgy
+he uses brewfather instead for calcs
+ bad software.
+
+
+Brewzilla 65litres
+ 20 to 55litres
+   6 steps
+  max grain 16kg
+	no chiller
+	more value for money without having bluetooth controller
+
+
+## Part 3 - Premium
+
+Brewtools 40 pro
+ 20-40litre
+ 3.2kw
+  9kg max grain bill
+
+Brewtools 80 pro
+ 30litre-80litre
+  2*3kw
+	20kg max grain bill
+
+
+
+
+
+
+## Intro videos
+
+[https://www.youtube.com/watch?v=tuoRby1iLhc&t=96s](https://www.youtube.com/watch?v=tuoRby1iLhc&t=96s) 6 part. Norweigan/Brit guy.
+
 
 
 ## Lomg Term
