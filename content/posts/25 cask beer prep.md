@@ -12,6 +12,28 @@ After brewing for 2 years with a brew in a bag / pot / propane burner / no chill
 
 There will be professional brewers there giving their opinion. So to mitigate embarrassment (and I've made lots of mistakes), I'm thinking strategically
 
+
+## What I'm brewing
+
+- [Woodfords Wherry Bitter Kit ](https://www.the-home-brew-shop.co.uk/woodfordes-wherry-beer-kit.html) - malt extract kit. £6.50 shipping. 5%
+- [Pale Ale]() - 3.8%.  from the Greg Hughes book. 26 IBU, 7 EBC
+- [Westy?]()
+
+
+# Back to Basics
+
+[How to Brew](https://www.amazon.co.uk/How-Brew-Everything-Great-Every/dp/1938469356) says that firstly you need to consider:
+
+- Sanitisation
+- Fermentation temperature control
+- Yeast management
+- The boil - can undercook and overcook
+- The recipe - right proportion of ingredients to provide complexity and balance of flavours
+
+
+
+
+
 ## How do people judge beer
 
 And it is theatre!
