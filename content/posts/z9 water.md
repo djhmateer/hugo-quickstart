@@ -16,13 +16,11 @@ What is water treatment for beer?
 
 And then consider water treatment. So lets not dwell too deeply!
 
-
 ## Baseline
 
 [https://www.southernwater.co.uk/how-hard-is-your-water](https://www.southernwater.co.uk/how-hard-is-your-water)
 
 With my full report on https://www.southernwater.co.uk/media/6538/zs536.pdf
-
 
 - 247 CaCO3mg/l (hard)
 - 6.8 pH (13th Nov 22 in Lewes)
@@ -31,13 +29,10 @@ With my full report on https://www.southernwater.co.uk/media/6538/zs536.pdf
 
 For pale ales I'm going with:
 
-AMS (CRS) / Lactic acid: 24ml for 20 litres [Malt miller](https://www.themaltmiller.co.uk/product/ams-crs-500ml/)
+AMS (CRS) / Lactic acid: 24ml for 20 litres [Malt Miller](https://www.themaltmiller.co.uk/product/ams-crs-500ml/)
 
+DWB: 10g for 20 litres in the mash [Malt Miller](https://www.themaltmiller.co.uk/product/dwb-500g/)
 
-DWB: 10g for 20litres in the mash [Malt Miller](https://www.themaltmiller.co.uk/product/dwb-500g/)
-
-
-[The Homebrew Challenge - American Pale Ale](https://www.youtube.com/watch?v=SqdRKKyzRtY) - epsom salt, gypsom, calcium chloride and lactic acid 
 
 For Stouts lower on the AMS - (see Pauls spreadsheet.)
 
