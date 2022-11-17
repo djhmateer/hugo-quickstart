@@ -9,19 +9,20 @@ draft: true
 
 A pale ale is a great starter all grain beer. Ferment at room temperature (for me), conditions fairly quickly (as not strong). And is a crowd pleaser as it is sessionable.
 
-
 Page 120 3.8%.  from the Greg Hughes book. 26 IBU, 7 EBC
 
 water treatment
 
+## Next with Danstar Nottingham 
+P34 of Hughes book suggest this
 
-## Next
+## Next with S33
 Next brew I'll do the same with SafAle S33 instead of WLP005. S33 is much cheaper.
 
 https://www.saltcitybrewsupply.com/media/YeastComparison3.pdf
  WLP005 to SafAle S33
 
- ## Next again
+## Next more of an American PA (APA)
 
 https://www.youtube.com/watch?v=YCbKRtKRM60
 

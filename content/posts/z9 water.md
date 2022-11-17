@@ -36,5 +36,11 @@ DWB: 10g for 20 litres in the mash [Malt Miller](https://www.themaltmiller.co.uk
 
 For Stouts lower on the AMS - (see Pauls spreadsheet.)
 
+## Campden Tablets
+
+[https://blog.homebrewing.org/using-campden-tablets-homebrewing/](https://blog.homebrewing.org/using-campden-tablets-homebrewing/)
+
+I'm unsure if I'll use a campden tablet as shouldn't need if I get sanitising done well. Maybe for the chrlorine.
+
 
 
