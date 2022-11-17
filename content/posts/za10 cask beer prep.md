@@ -8,7 +8,7 @@ draft: false
 
 After brewing for 2 years with a brew in a bag / pot / propane burner / no chiller / bucket ferment.. malt extract and all grain..
 
-[https://craftalesociety.com/](https://craftalesociety.com/) - my friend Andy and I are showing our beers at the local craft ale society in a few months (25th Jan 2023) which is about 11 weeks.
+[https://craftalesociety.com/](https://craftalesociety.com/) - my friend Andy and I are showing our beers at the local craft ale society in a few months (19th Jan 2023) which is about 9 weeks.
 
 There will be professional brewers there giving their opinion. So to mitigate embarrassment (and I've made lots of mistakes), I'm thinking strategically
 
@@ -17,7 +17,7 @@ There will be professional brewers there giving their opinion. So to mitigate em
 
 - [Woodfords Wherry Bitter Kit ](https://www.the-home-brew-shop.co.uk/woodfordes-wherry-beer-kit.html) - malt extract kit. £6.50 shipping. 5%
 - [Pale Ale]() - 3.8%.  from the Greg Hughes book. 26 IBU, 7 EBC
-- [Westy?]()
+- [Westy 12]() - from my store of beer
 
 
 # Back to Basics
@@ -29,10 +29,6 @@ There will be professional brewers there giving their opinion. So to mitigate em
 - Yeast management
 - The boil - can undercook and overcook
 - The recipe - right proportion of ingredients to provide complexity and balance of flavours
-
-
-
-.
 
 
 ## How do people judge beer
@@ -74,9 +70,6 @@ From the [Greg Hughes - Home Brew Beer book](https://www.amazon.co.uk/Home-Brew-
 [https://www.youtube.com/watch?v=g43DH8FpGdE](https://www.youtube.com/watch?v=g43DH8FpGdE)
 
 **best beer he has ever made
-
-
-
 
 ## YouTube - AIPA
 
