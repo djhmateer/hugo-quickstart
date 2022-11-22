@@ -9,9 +9,44 @@ draft: true
 
 A pale ale is a great starter all grain beer. Ferment at room temperature (for me), conditions fairly quickly (as not strong). And is a crowd pleaser as it is sessionable.
 
-Page 120 3.8%.  from the Greg Hughes book. 26 IBU, 7 EBC
+[![pot](/images/2022-11-22/1.jpg "recipe")](/images/2022-11-22/1.jpg)
 
-water treatment
+Page 120 the [Greg Hughes book - Home Brew Beer 2nd Edition 2013](https://www.amazon.co.uk/Home-Brew-Beer-Greg-Hughes/dp/1409331768)
+
+
+[![pot](/images/2022-11-22/2.jpg "beer")](/images/2022-11-22/2.jpg)
+
+## Strategy
+
+- Sanitisation
+- Fermentation temperature control
+- Yeast management
+- The boil - can undercook and overcook
+- The recipe - right proportion of ingredients to provide complexity and balance of flavours
+
+Get right amount of liquor
+
+Find my effeciency
+
+## Water treatment
+AMS (CRS) / Lactic acid: 24ml for 20 litres [Malt Miller](https://www.themaltmiller.co.uk/product/ams-crs-500ml/)
+
+DWB: 10g for 20 litres in the mash [Malt Miller](https://www.themaltmiller.co.uk/product/dwb-500g/)
+
+[Water]() blog post
+
+## Mash
+
+- Extra Pale Malt 4.3kg
+- Light crystal malt 95g
+
+Temp - 65C
+Time - 1 hour
+
+
+
+
+
 
 ## Next with Danstar Nottingham 
 P34 of Hughes book suggest this
