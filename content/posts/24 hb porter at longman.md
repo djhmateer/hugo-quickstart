@@ -126,3 +126,7 @@ Tasted the beer and it was lovely
 [![pot](/images/2022-10-08/15.jpg "bottled")](/images/2022-10-08/15.jpg)
 
 I've got 1 plastic bottle so can tell how much CO2 is there by squeezing it.
+
+## 4 Weeks conditioning
+
+It tastes much better than a few weeks ago - properly good!

@@ -29,22 +29,54 @@ Get right amount of liquor
 Find my effeciency
 
 ## Water treatment
-AMS (CRS) / Lactic acid: 24ml for 20 litres [Malt Miller](https://www.themaltmiller.co.uk/product/ams-crs-500ml/)
+AMS (CRS) / Lactic acid: 24ml for 20 litres
 
-DWB: 10g for 20 litres in the mash [Malt Miller](https://www.themaltmiller.co.uk/product/dwb-500g/)
+DWB: 10g for 20 litres in the mash 
 
 [Water]() blog post
 
 ## Mash
+I'm using 29 litres of Strike Water From page 312 of [How to Brew]() 
 
-- Extra Pale Malt 4.3kg
+So will get 27 litres to the boil
+
+Then 23 litres to the fermenter
+
+Heat up water took about 40 minutes
+
+- Extra Pale Malt 4.3kg (actually did 4.48kg as brew effeciency)
 - Light crystal malt 95g
 
-Temp - 65C
-Time - 1 hour
+Temp - 65C (put in at 66 as cold day, with a jacket on the kettle)
+Time - 1 hour (10:05 started)
 
 
+## Boil
 
+1135 boil started
+
+- 35g challenger added at start
+- 23g East Kent Golding at flame out
+- 16g Styrian Goding at flame out
+
+1 Protafloc tablet (3g) at flame out (should have been at 15mins)
+
+## Ferment 
+
+Have a new cooler, and took about 1 hour to get to 20 degrees.
+
+I strained out all the liquid using my BIAB (25 litres)
+
+FG at 20 degrees was: 1042
+
+- WLP005 British Ale Yeast pitched
+
+Keeping at around 18 degrees.
+
+
+## Efficiencies
+
+[https://www.brewersfriend.com/brewhouse-efficiency/](https://www.brewersfriend.com/brewhouse-efficiency/) - 83%
 
 
 
