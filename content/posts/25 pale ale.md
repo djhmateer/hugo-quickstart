@@ -1,6 +1,6 @@
 ---
 title: Pale Ale - Brew 25 
-date: 2022-11-17
+date: 2022-11-25
 draft: true 
 ---
 
@@ -13,6 +13,7 @@ A pale ale is a great starter all grain beer. Ferment at room temperature (for m
 
 Page 120 the [Greg Hughes book - Home Brew Beer 2nd Edition 2013](https://www.amazon.co.uk/Home-Brew-Beer-Greg-Hughes/dp/1409331768)
 
+[https://share.brewfather.app/36b9wFHyxgBxgw](https://share.brewfather.app/36b9wFHyxgBxgw) recipe that I made
 
 [![pot](/images/2022-11-22/2.jpg "beer")](/images/2022-11-22/2.jpg)
 
@@ -72,6 +73,13 @@ FG at 20 degrees was: 1042
 - WLP005 British Ale Yeast pitched
 
 Keeping at around 18 degrees.
+
+Friday 25th Nov I did the mash. Now on Tue 6th Dec. 11 days in the fermenter. Temp now at 15 degrees (day).
+
+Using new refractomemter, I'm getting a reading of 4% brix, which is 1014 at 18 degrees
+
+New hydrometer is giving 1012 which means it is done fermenting.
+
 
 
 ## Efficiencies
