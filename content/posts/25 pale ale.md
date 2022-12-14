@@ -80,6 +80,12 @@ Using new refractomemter, I'm getting a reading of 4% brix, which is 1014 at 18 
 
 New hydrometer is giving 1012 which means it is done fermenting.
 
+## Kegging
+
+First time I've used a keg for beer.
+
+
+
 
 
 ## Efficiencies
