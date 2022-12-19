@@ -1,5 +1,5 @@
 ---
-title: Pale Ale - Brew 25 
+title: Pale Ale with Keg Carbonation - Brew 25 
 date: 2022-11-25
 draft: true 
 ---
@@ -83,6 +83,25 @@ New hydrometer is giving 1012 which means it is done fermenting.
 ## Kegging
 
 First time I've used a keg for beer.
+
+## Force Carb
+
+19th Dec (been sitting in a keg for 13 days under no real pressure) put under pressure.
+
+
+[![pot](/images/2022-11-22/5.jpg "recipe")](/images/2022-11-22/5.jpg)
+
+Disconnect check valve
+
+Grey = gas
+
+
+[![pot](/images/2022-11-22/6.jpg "recipe")](/images/2022-11-22/6.jpg)
+
+I have a gas leak on my gas line somewhere. 
+
+
+It is quite warm outside (13 degrees, 12 at night)
 
 
 
