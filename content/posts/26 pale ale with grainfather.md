@@ -1,7 +1,7 @@
 ---
 title: Pale Ale with Grainfather - Brew 26
 date: 2022-12-09
-draft: true 
+draft: false 
 ---
 
 <!-- [https://www.brewersfriend.com/homebrew/recipe/view/1289160/kingston-jpa](https://www.brewersfriend.com/homebrew/recipe/view/1289160/kingston-jpa)  -->
@@ -45,50 +45,15 @@ about 25 litres to begin with
 
 Did a 45 min boil as running out of time
 
-x litres at end
+20 litres at end
 
 ## Ferment 
 
-FG at 20 degrees was: 1048
+OG at 20 degrees was: 1048
 
 - SAFAle S33 dried yeast 
 
 Keeping at around 18 degrees.
 
-Friday 25th Nov I did the mash. Now on Tue 6th Dec. 11 days in the fermenter. Temp now at 15 degrees (day).
 
-Using new refractomemter, I'm getting a reading of 4% brix, which is 1014 at 18 degrees
-
-New hydrometer is giving 1012 which means it is done fermenting.
-
-
-
-## Efficiencies
-
-[https://www.brewersfriend.com/brewhouse-efficiency/](https://www.brewersfriend.com/brewhouse-efficiency/) - 83%
-
-
-
-## Next with Danstar Nottingham 
-P34 of Hughes book suggest this
-
-## Next with S33
-Next brew I'll do the same with SafAle S33 instead of WLP005. S33 is much cheaper.
-
-https://www.saltcitybrewsupply.com/media/YeastComparison3.pdf
- WLP005 to SafAle S33
-
-## Next more of an American PA (APA)
-
-https://www.youtube.com/watch?v=YCbKRtKRM60
-
-Simple vs Complex Pale Ale
-
-smash
-6 lbs 4.0 oz     Maris Otter
-0.50 oz          Cascade [5.50 %] - Boil 60.0 min
-0.50 oz          Cascade [5.50 %] - Boil 20.0 min
-2.00 oz          Cascade [5.50 %] - Steep/Whirlpool  30.0 min
-1.0 pkg          American Ale (Wyeast Labs #1056)
-
-cascade hops - super  
+24th Dec I transferred the beer to a keg to condition. FG was around 1016 (slightly higher FG than WLP005)

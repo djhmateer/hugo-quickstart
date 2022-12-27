@@ -100,39 +100,14 @@ Grey = gas
 
 I have a gas leak on my gas line somewhere. 
 
-
 It is quite warm outside (13 degrees, 12 at night)
 
+Had to use some thread sealant.
+
+Force carbed at 40psi for 1 night
+
+## Serve
+
+Served at 15 psi using a pourer on 23rd of Dec - was a lot of fun. An easy drinking beer which everyone just drank. It should have been colder. Also a lager would have been more easy drinking. This recipe actually have some bite.
 
 
-
-
-## Efficiencies
-
-[https://www.brewersfriend.com/brewhouse-efficiency/](https://www.brewersfriend.com/brewhouse-efficiency/) - 83%
-
-
-
-## Next with Danstar Nottingham 
-P34 of Hughes book suggest this
-
-## Next with S33
-Next brew I'll do the same with SafAle S33 instead of WLP005. S33 is much cheaper.
-
-https://www.saltcitybrewsupply.com/media/YeastComparison3.pdf
- WLP005 to SafAle S33
-
-## Next more of an American PA (APA)
-
-https://www.youtube.com/watch?v=YCbKRtKRM60
-
-Simple vs Complex Pale Ale
-
-smash
-6 lbs 4.0 oz     Maris Otter
-0.50 oz          Cascade [5.50 %] - Boil 60.0 min
-0.50 oz          Cascade [5.50 %] - Boil 20.0 min
-2.00 oz          Cascade [5.50 %] - Steep/Whirlpool  30.0 min
-1.0 pkg          American Ale (Wyeast Labs #1056)
-
-cascade hops - super  

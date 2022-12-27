@@ -1,7 +1,7 @@
 ---
 title: Woodfordes Wherry Extract - Brew 27
 date: 2022-12-19
-draft: true 
+draft: false 
 ---
 
 <!-- [https://www.brewersfriend.com/homebrew/recipe/view/1289160/kingston-jpa](https://www.brewersfriend.com/homebrew/recipe/view/1289160/kingston-jpa)  -->
