@@ -29,4 +29,6 @@ should be 7 - 10 days at 18 - 20 degrees
 FG should be 1014 or less aiming for 4.5%
 
 ## Condition
-asdf
+
+Mon 2nd Dec (14 days) - getting FG of 1012 from hydrometer. Strangely the refractometer is giving 1020
+

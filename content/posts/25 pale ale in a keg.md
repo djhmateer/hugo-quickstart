@@ -110,4 +110,5 @@ Force carbed at 40psi for 1 night
 
 Served at 15 psi using a pourer on 23rd of Dec - was a lot of fun. An easy drinking beer which everyone just drank. It should have been colder. Also a lager would have been more easy drinking. This recipe actually have some bite.
 
+Also served on 31st Dec. Didn't need the gas as a lot of CO2 in the beer. Was lovely. Nice to have session beer!
 
