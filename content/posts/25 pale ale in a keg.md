@@ -1,7 +1,7 @@
 ---
 title: Pale Ale with Keg Carbonation - Brew 25 
 date: 2022-11-25
-draft: true 
+draft: false 
 ---
 
 <!-- [https://www.brewersfriend.com/homebrew/recipe/view/1289160/kingston-jpa](https://www.brewersfriend.com/homebrew/recipe/view/1289160/kingston-jpa)  -->
