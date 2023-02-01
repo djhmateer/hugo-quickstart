@@ -31,5 +31,12 @@ I find some kits to be quite thin, so I'm going to make 19l instead of 23l
 
 1056 sg
 
+## Ferment
+
+1st Feb it was still at 1032, and bubbling away slowly. Temps have been colder than I would like. From 19 to 13 degrees, hence slow fermentation.
+
+Dry hop once gets to around 1020
+
+
 
 

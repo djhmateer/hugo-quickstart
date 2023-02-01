@@ -75,4 +75,9 @@ Got 1056 as FG so added a few litres of water so it will be around maybe 1048? G
 
 at 18degrees
 
+1024 approx on 1st Feb. got a problem with fermenter - can't see bubbles..hole too big I drilled perhaps.
+
+## Dry Hop
+
+once fermentation is done
 
