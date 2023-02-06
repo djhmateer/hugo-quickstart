@@ -7,7 +7,7 @@ draft: false
 <!-- [https://www.brewersfriend.com/homebrew/recipe/view/1289160/kingston-jpa](https://www.brewersfriend.com/homebrew/recipe/view/1289160/kingston-jpa)  -->
 <!-- [![pot](/images/2022-10-08/6.jpg "treatment")](/images/2022-10-08/6.jpg) -->
 
-A team of us from [Lewes Home Brew](https://leweshomebrew.club/) met up at 0900 with the amazing Stephen Perrin, head brewer, from [Longman Brewery](https://www.longmanbrewery.com/) to do a brew on their 100 litre test kit.
+A team of us from [Lewes Home Brew](https://leweshomebrew.club/) met up at 0900 (finished about 1430) with the amazing Stephen Perrin, head brewer, from [Longman Brewery](https://www.longmanbrewery.com/) to do a brew on their 100 litre test kit.
 
 
 [![pot](/images/2023-02-04/1.jpg "treatment")](/images/2023-02-04/1.jpg)
@@ -17,6 +17,9 @@ The 100 litre test kit. Maybe next time we can push to 110 / 120 litres.
 
 ## Recipe
 
+[![pot](/images/2022-11-22/1.jpg "recipe")](/images/2022-11-22/1.jpg)
+
+Beer Style: Pale Ale inspired by above with more citra (new world hops vs English) and more mouth feel (oats)
 
 Batch size: 100 L
 
