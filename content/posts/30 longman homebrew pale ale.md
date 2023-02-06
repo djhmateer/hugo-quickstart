@@ -19,7 +19,7 @@ The 100 litre test kit. Maybe next time we can push to 110 / 120 litres.
 
 [![pot](/images/2022-11-22/1.jpg "recipe")](/images/2022-11-22/1.jpg)
 
-Beer Style: Pale Ale inspired by above with more citra (new world hops vs English) and more mouth feel (oats)
+Beer Style: Pale Ale inspired by above with more citra (new world hops vs English) and more mouth feel (oats). p120 Greg Hughes book
 
 Batch size: 100 L
 
