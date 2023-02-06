@@ -68,14 +68,16 @@ sparge strike temp was 78 degrees
 
 1 hour
 
-- 130g Oligana (24 IBU) at start
-- 1 Protofloc at 10 mins (to clear)
-- 100g Jester (to give 28 IBU)
+- 130g [Olicana](https://www.britishhops.org.uk/varieties/olicana/) (24 IBU) at start
+- 1 [Protofloc](https://www.the-home-brew-shop.co.uk/protofloc-tablets-15-pack-protafloc.htm) at 10 mins (to clear)
+- 100g [Jester](https://www.shopuk.charlesfaram.com/portal/product/130) (to give 28 IBU)
 
 
 ## Ferment
 
 Got 1043 as OG.
+
+[https://www.brewersfriend.com/brewhouse-efficiency/](https://www.brewersfriend.com/brewhouse-efficiency/) which gave a brewhouse efficiency of 82%. But am not exactly sure of the grains so this isn't a great accuracy.
 
 [WHC Labs - Saturated Yeast](https://whclab.com/product/dehydrated-saturated-dried-yeast-500g/?v=79cba1185463) Good for 	
 Brown Ales, Imperial Stouts, NEIPAs, Pale Ales, Stouts, West Coast IPAs.
@@ -93,6 +95,11 @@ ABV Tolerance: 13%
 
 Will add at the end of the ferment (otherwise it may be go crazy and foam up). For 48 hours max. Will use tights and a marble (steralised)
 
+[Ekuanot](https://bsgcraftbrewing.com/ekuanot/) - Citrus, Fruit and herb
+
+[Mosaic](https://bsgcraftbrewing.com/mosaic/) - Tropically pungent for IPAs, saisons.. saughter of Simcoe.. compared to an amplified Citra.
+
+Have got 125g in total with 75% Ekuanot
 ## Photos
 
 
@@ -124,8 +131,12 @@ SG of 1045 which is what we were aiming for. Notice the pale colour which is abo
 
 [![pot](/images/2023-02-04/9.jpg "treatment")](/images/2023-02-04/9.jpg)
 
-I went with Ecuanot and Mosaic
+I went with Ekuanot and Mosaic for dry hopping
 
 [![pot](/images/2023-02-04/10.jpg "treatment")](/images/2023-02-04/10.jpg)
 
 Will add at the end of the ferment (otherwise it may be go crazy and foam up). For 48 hours max. Will use tights and a marble (steralised)
+
+## Conclusion
+
+Am amazing day learning about brewing by doing it. I'm quite excited about brewing this session beer, as it is a 'citrus' twist on the standard recipe. I'm also very excited about pushing the boundaries by experimenting with different styles of beer...next article!
