@@ -11,7 +11,7 @@ A team of us from [Lewes Home Brew](https://leweshomebrew.club/) met up at 0900 
 
 
 [![pot](/images/2023-02-04/1.jpg "treatment")](/images/2023-02-04/1.jpg)
-Jeff and Stephen
+Stephen and Jeff
 
 The 100 litre test kit. Maybe next time we can push to 110 / 120 litres.
 
@@ -20,52 +20,78 @@ The 100 litre test kit. Maybe next time we can push to 110 / 120 litres.
 
 Batch size: 100 L
 
-OG: 1045 
+OG: 1043 
 
 FG: 1012
 
 ABV: 4% 
 
-IBU: 26
+IBU: 28
 
 
-19kg of Grain (eqquivalent of 3.8kg for 20 litres)
+19kg of Grain (equivalent of 3.8kg for 20 litres)
 
-4.66kg of grain
+C/F Low Colour - Pale Malt - 16 Kg (85%)
+
+Vienna 1.4 Kg (7.5%) - for sweetness
+
+Naked Oats 1.4 Kg (7.5%) - for body
+
 
 ## Water treatment
+Lactic Acid - 33 g/ml
+
+Calcium Chloride - 37 g/ml
+
+Calcium Sulphate 12.5 g/ml
+
+Sodium Chloride 12.25 g/ml
+
+compared to what I usually use
+
 AMS (CRS) / Lactic acid: 24ml for 20 litres (I added 20ml)
+
 DWB: 10g for 20 litres in the mash 
 
 
 ## Mash
 
+68 degrees
+
 1 hour
 
+## Sparge
+
+sparge strike temp was 78 degrees
 
 ## Boil
 
 1 hour
 
-60min Magnum 6g
+- 130g Oligana (24 IBU) at start
+- 1 Protofloc at 10 mins (to clear)
+- 100g Jester (to give 28 IBU)
 
-20min hop stand at 80degrees
-20g Citra
-20g Mosaic
-10g Cascade
-10g Chiniik
 
 ## Ferment
 
-Got 1056 as FG so added a few litres of water so it will be around maybe 1048? Got to 23 litres and 1056 was at 21 litres
+Got 1043 as OG.
 
-at 18degrees
+[WHC Labs - Saturated Yeast](https://whclab.com/product/dehydrated-saturated-dried-yeast-500g/?v=79cba1185463) Good for 	
+Brown Ales, Imperial Stouts, NEIPAs, Pale Ales, Stouts, West Coast IPAs.
 
-1024 approx on 1st Feb. got a problem with fermenter - can't see bubbles..hole too big I drilled perhaps.
+Intended temp: 19-22C
+
+Attenuation: 73-77%
+
+Comparitive Strains: 	London Ale 3, Juice, British Ale V
+
+ABV Tolerance: 13%
+
 
 ## Dry Hop
 
-once fermentation is done
+Will add at the end of the ferment (otherwise it may be go crazy and foam up). For 48 hours max. Will use tights and a marble (steralised)
 
 ## Photos
 
