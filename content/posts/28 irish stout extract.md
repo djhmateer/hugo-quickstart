@@ -37,6 +37,10 @@ I find some kits to be quite thin, so I'm going to make 19l instead of 23l
 
 Dry hop once gets to around 1020
 
+9th Feb it is 1016, so dry hop
+
+
+
 
 
 

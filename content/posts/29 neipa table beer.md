@@ -77,7 +77,25 @@ at 18degrees
 
 1024 approx on 1st Feb. got a problem with fermenter - can't see bubbles..hole too big I drilled perhaps.
 
+2.5 weeks. and fermentation at 1012. perfect. however my sight glass was showing 1020 / 1024
+
 ## Dry Hop
 
+9th Feb at 1400 at 14 degrees for 2 days
+
+Using tights and steralised marble.
+
 once fermentation is done
+
+Citra 60g
+Mosaic 40g
+Cascade 30g
+Chinook 30g
+
+48 hours
+
+
+## Cold Crash
+
+keep at ?
 
