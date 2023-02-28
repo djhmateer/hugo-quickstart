@@ -143,3 +143,21 @@ Will add at the end of the ferment (otherwise it may be go crazy and foam up). F
 ## Conclusion
 
 Am amazing day learning about brewing by doing it. I'm quite excited about brewing this session beer, as it is a 'citrus' twist on the standard recipe. I'm also very excited about pushing the boundaries by experimenting with different styles of beer...next article!
+
+## Dry Hop
+
+Over 3 weeks later on 28th Feb
+
+FG: 1008 (hydrometer)
+
+[![pot](/images/2023-02-28/correct.jpg "treatment")](/images/2023-02-28/correct.jpg)
+
+[https://www.brewersfriend.com/refractometer-calculator/#](https://www.brewersfriend.com/refractometer-calculator/)
+
+brix 4 (refractometer)
+
+giving 1.002 - hmm
+
+
+And dry hopping all the hops ..128g
+
