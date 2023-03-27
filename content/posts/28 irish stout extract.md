@@ -39,6 +39,10 @@ Dry hop once gets to around 1020
 
 9th Feb it is 1016, so dry hop
 
+## Keg
+
+26th March put into a keg and force carbed at 30psi for a few hours (rolled around too). Very drinkable beer!
+
 
 
 
