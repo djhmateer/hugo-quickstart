@@ -11,11 +11,9 @@ draft: false
 
 
 ## Water treatment
-AMS (CRS) / Lactic acid: 24ml for 20 litres (I added 20ml)
-DWB: 10g for 20 litres in the mash 
+None!
 
 ## Mash
-I added a few more litres to make it easier to stir the grain
 
 - Extra Pale Malt 5Kg (was 4.3kg)
 - Light crystal malt 150g (was 95g)
@@ -29,6 +27,10 @@ Added about 8 litres or so.. Until have got about 27 litres (so will have 23 lit
 
 ## Boil
 
+<!-- [![pot](/images/2023-05-09/3.jpg "treatment")](/images/2023-05-09/3.jpg) -->
+
+{{< figure src="/images/2023-05-09/3.jpg" alt="dwarf" width="500px" >}}
+
 - 45g (should be 35g) challenger added at start. 33g challenger and 13g celeia (as this is what I had)
 - 30g (23g) East Kent Golding at flame out
 - 25 (16g) Styrian Golding (am using Celeia which is an offspring) at flame out
@@ -40,6 +42,10 @@ Added about 8 litres or so.. Until have got about 27 litres (so will have 23 lit
 ## Ferment 
 
 OG at 20 degrees was: 1054 (but I added a 3 extra litres of water so will be less)
+<!-- [![pot](/images/2023-05-09/2.jpg "treatment"){:width="500px"}](/images/2023-05-09/2.jpg) -->
+<!-- [![pot](/images/2023-05-09/2.jpg "treatment")](/images/2023-05-09/2.jpg) -->
+
+{{< figure src="/images/2023-05-09/2.jpg" alt="dwarf" width="400px" >}}
 
 Kveik Ale Yeast
 [https://www.themaltmiller.co.uk/product/lallemand-voss-11g-kveik-beer-yeast/?v=79cba1185463](https://www.themaltmiller.co.uk/product/lallemand-voss-11g-kveik-beer-yeast/?v=79cba1185463)
@@ -51,4 +57,9 @@ Aiming for 35 degrees. But am on around 23 degrees, and it started fermenting af
 
 Next day it is bubbling away nicely (blow off tube into pint glass)
 
+<!-- [![pot](/images/2023-05-09/1.jpg "treatment")](/images/2023-05-09/1.jpg) -->
+
+{{< figure src="/images/2023-05-09/1.jpg" alt="dwarf" width="400px" >}}
+
+Struggling to get warmer than 23 (goal is 35)
 

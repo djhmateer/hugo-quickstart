@@ -26,11 +26,11 @@ tag = "tags"
 [params]
   # Show intro in the home page (with headline and description)
   intro = true
-  headline = "Posts and notes on how to start home brewing"
-  description = "Lets see how the first home brew goes!"
+  headline = "Posts and notes on starting home brewing and progressing!"
+  description = "Enjoying brewing and brining people together"
 
   # Copyright note in the footer
-  copyright = "Copyright © 2021 Dave Mateer"
+  copyright = "Copyright © 2023 Dave Mateer"
 
   # Image in the homepage. You can setup a different image for social media
   cover = "images/allkit.jpg"
