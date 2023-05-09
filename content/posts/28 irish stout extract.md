@@ -43,6 +43,8 @@ Dry hop once gets to around 1020
 
 26th March put into a keg and force carbed at 30psi for a few hours (rolled around too). Very drinkable beer!
 
+By end of April this had ended up spoiling and was undrinkable. Perhaps due to incorrect flushing of CO2 ie not enough had caused oxygenation.
+
 
 
 

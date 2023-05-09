@@ -99,3 +99,7 @@ Chinook 30g
 
 keep at ?
 
+## Keg
+
+Was okay... but didn't last long. Classic oxygenation problem of neipa.
+
