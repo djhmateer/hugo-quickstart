@@ -61,16 +61,23 @@ Next day it is bubbling away nicely (blow off tube into pint glass)
 
 {{< figure src="/images/2023-05-09/1.jpg" alt="dwarf" width="400px" >}}
 
-Struggling to get warmer than 23 (goal is 35)
+Struggling to get warmer than 23 (goal is 35). Ended up at 29degrees (next time don't cool so much after boil!)
 
 Fermented out in 2.5 days!
+
+Cold crash down to 5 degrees and added CO2 
+
 
 ## Condition and Drink
 
 [![pot](/images/2023-06-06/2.jpg "treatment")](/images/2023-06-06/2.jpg)
 
-Was drinking this beer in 5 days
+Was drinking this tasty beer in 5 days
 
-After 3 weeks it changed a lot and is really good.. conditioning has helped a lot!
+[![pot](/images/2023-06-06/3.jpg "treatment")](/images/2023-06-06/3.jpg)
+
+After 3 weeks it changed a lot .. conditioning has helped!
+
+This is a delicious beer. The additional hops are good and the additional strength too. I'll probably dial it down a bit next time to make more sessionalble, but keep the hop content up.
 
 
