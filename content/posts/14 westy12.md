@@ -81,5 +81,8 @@ So 147g of sugar
 This is one of my favourite beers to drink! It is a bit cloudy, but like a dessert in a glass. Beautiful. And very strong.
 
 
+## 1 year later
+
+By far the best beer I've brewed!!! Only 3 bottles left.. time to make more more :-)
 
 
