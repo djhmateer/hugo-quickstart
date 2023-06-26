@@ -15,7 +15,6 @@ draft: false
 
 0805 put on water. Came up to temp in about 35 mins.
 
-
 ## Water treatment
 AMS (CRS) / Lactic acid: 24ml for 20 litres (I added 20ml)
 DWB: 10g for 20 litres in the mash 
@@ -112,3 +111,9 @@ After 3 weeks it changed a lot .. conditioning has helped!
 This is a delicious beer. The additional hops are good and the additional strength too. I'll probably dial it down a bit next time to make more sessionalble, but keep the hop content up.
 
 
+
+## To try next time
+
+- get grains ready the night before
+- try grainfather timer for water is at 65 when I wake up - around 20 litres
+- brew 1.5x or 2x... and go for stronger.. so can water down.. make more on same day
