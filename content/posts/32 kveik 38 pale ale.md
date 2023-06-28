@@ -81,26 +81,16 @@ Fermentation started certainly 5 hours later when I checked (have a blow off tub
 
 Nearly finished at 52 hours (33 degrees).. but not quite.
 
+FG was 1006
 
+put in keg in just under days
 
-**HERE**
-
-
-<!-- [![pot](/images/2023-05-09/2.jpg "treatment"){:width="500px"}](/images/2023-05-09/2.jpg) -->
-<!-- [![pot](/images/2023-05-09/2.jpg "treatment")](/images/2023-05-09/2.jpg) -->
-
-<!-- {{< figure src="/images/2023-05-09/2.jpg" alt="dwarf" width="400px" >}} -->
-
-
-
-<!-- [![pot](/images/2023-05-09/1.jpg "treatment")](/images/2023-05-09/1.jpg) -->
-
-Fermented out in 2.5 days!
-
-Cold crash down to 5 degrees and added CO2 
+Cold crash down to 3 degrees and added CO2 (3 times burped to get rid of oxygen)
 
 
 ## Condition and Drink
+
+**HERE**
 
 [![pot](/images/2023-06-06/2.jpg "treatment")](/images/2023-06-06/2.jpg)
 
