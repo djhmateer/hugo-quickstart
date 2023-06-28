@@ -79,6 +79,8 @@ fridge starting temp 27.6 degrees. Set heater to 38 degrees
 
 Fermentation started certainly 5 hours later when I checked (have a blow off tube into a pint glass again)
 
+Nearly finished at 52 hours (33 degrees).. but not quite.
+
 
 
 **HERE**
