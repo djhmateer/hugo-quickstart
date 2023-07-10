@@ -20,10 +20,8 @@ draft: false
 - DWB: 10g for 20 litres in the mash 
 
 ## Mash
-
 - Extra Pale Malt 4.3kg
 - Light crystal malt 95g
-
 - Temp - 65C 
 - Time - 1 hour 
 
