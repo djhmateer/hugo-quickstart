@@ -43,4 +43,7 @@ For Stouts lower on the AMS - (see Pauls spreadsheet.)
 I'm unsure if I'll use a campden tablet as shouldn't need if I get sanitising done well. Maybe for the chrlorine.
 
 
+Not be be confused with Protofloc tablets (Irish moss) which is used to clear the beer.
+
+
 

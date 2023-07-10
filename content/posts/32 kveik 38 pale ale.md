@@ -16,16 +16,16 @@ draft: false
 0805 put on water. Came up to temp in about 35 mins.
 
 ## Water treatment
-AMS (CRS) / Lactic acid: 24ml for 20 litres (I added 20ml)
-DWB: 10g for 20 litres in the mash 
+- AMS (CRS) / Lactic acid: 24ml for 20 litres (I added 20ml)
+- DWB: 10g for 20 litres in the mash 
 
 ## Mash
 
 - Extra Pale Malt 4.3kg
 - Light crystal malt 95g
 
-Temp - 65C 
-Time - 1 hour 
+- Temp - 65C 
+- Time - 1 hour 
 
 Mash in at 0855. Forgot to turn on the pump, so turned on at 0950 for 15 mins.
 
@@ -45,9 +45,10 @@ Boil started at 1050 (this step always takes time 35 mins even though I added bo
 <!-- {{< figure src="/images/2023-05-09/3.jpg" alt="dwarf" width="500px" >}} -->
 
 - should be 35g challenger added at start.  Used for bittering and aroma. Alpha acids around 7% IBU 38 
+
 I had some [https://essentiallyhops.co.uk/product/hops/bare-root-hop-plants/prima-donna-first-gold/](https://essentiallyhops.co.uk/product/hops/bare-root-hop-plants/prima-donna-first-gold/) from last years crop. about 18g. 
 
-1 Protafloc tablet (3g) at 15mins
+- 1 Protafloc tablet (3g) at 15mins
 
 - have put in 7g of columbus for bittering. have used less as a more bitter hop at alphas of 17.3 and IBU of 
 
@@ -79,20 +80,30 @@ fridge starting temp 27.6 degrees. Set heater to 38 degrees
 
 Fermentation started certainly 5 hours later when I checked (have a blow off tube into a pint glass again)
 
+Nearly finished at 52 hours (33 degrees).. but not quite.
 
-## Condition and Drinking
+FG was 1006
 
-asdf
+put in keg in just under days
 
-## Next Brew
-
-- cold crash in the fermenter for a few days
-- try different hops (as don't like a taste) and worried about off flabours
-- split the brew - half in grainfather, half BIAB and put in bottles
+Cold crash down to 3 degrees and added CO2 (3 times burped to get rid of oxygen)
 
 
+<!-- [![pot](/images/2023-06-06/2.jpg "treatment")](/images/2023-06-06/2.jpg) -->
 
 <!-- [![pot](/images/2023-05-09/2.jpg "treatment"){:width="500px"}](/images/2023-05-09/2.jpg) -->
 <!-- [![pot](/images/2023-05-09/2.jpg "treatment")](/images/2023-05-09/2.jpg) -->
 
 <!-- {{< figure src="/images/2023-05-09/2.jpg" alt="dwarf" width="400px" >}} -->
+## Drink
+
+A bit too 'much' ie a bit too high gravity
+
+Also fewer hops
+
+
+## Next time
+
+- cold crash in fermenter
+- split brew grainfather and biab to see about off flavours or just recipe?
+
