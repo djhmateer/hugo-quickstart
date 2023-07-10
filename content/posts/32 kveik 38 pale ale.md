@@ -80,40 +80,19 @@ fridge starting temp 27.6 degrees. Set heater to 38 degrees
 Fermentation started certainly 5 hours later when I checked (have a blow off tube into a pint glass again)
 
 
+## Condition and Drinking
 
-**HERE**
+asdf
+
+## Next Brew
+
+- cold crash in the fermenter for a few days
+- try different hops (as don't like a taste) and worried about off flabours
+- split the brew - half in grainfather, half BIAB and put in bottles
+
 
 
 <!-- [![pot](/images/2023-05-09/2.jpg "treatment"){:width="500px"}](/images/2023-05-09/2.jpg) -->
 <!-- [![pot](/images/2023-05-09/2.jpg "treatment")](/images/2023-05-09/2.jpg) -->
 
 <!-- {{< figure src="/images/2023-05-09/2.jpg" alt="dwarf" width="400px" >}} -->
-
-
-
-<!-- [![pot](/images/2023-05-09/1.jpg "treatment")](/images/2023-05-09/1.jpg) -->
-
-Fermented out in 2.5 days!
-
-Cold crash down to 5 degrees and added CO2 
-
-
-## Condition and Drink
-
-[![pot](/images/2023-06-06/2.jpg "treatment")](/images/2023-06-06/2.jpg)
-
-Was drinking this tasty beer in 5 days
-
-[![pot](/images/2023-06-06/3.jpg "treatment")](/images/2023-06-06/3.jpg)
-
-After 3 weeks it changed a lot .. conditioning has helped!
-
-This is a delicious beer. The additional hops are good and the additional strength too. I'll probably dial it down a bit next time to make more sessionalble, but keep the hop content up.
-
-
-
-## To try next time
-
-- get grains ready the night before
-- try grainfather timer for water is at 65 when I wake up - around 20 litres
-- brew 1.5x or 2x... and go for stronger.. so can water down.. make more on same day
