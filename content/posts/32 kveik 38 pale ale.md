@@ -45,19 +45,13 @@ Boil started at 1050 (this step always takes time 35 mins even though I added bo
 - should be 35g challenger added at start.  Used for bittering and aroma. Alpha acids around 7% IBU 38 
 
 I had some [https://essentiallyhops.co.uk/product/hops/bare-root-hop-plants/prima-donna-first-gold/](https://essentiallyhops.co.uk/product/hops/bare-root-hop-plants/prima-donna-first-gold/) from last years crop. about 18g. 
-
 - 1 Protafloc tablet (3g) at 15mins
-
 - have put in 7g of columbus for bittering. have used less as a more bitter hop at alphas of 17.3 and IBU of 
-
 - 25g East Kent Golding at flame out - aroma. Alpha 5.7% IBU
 
 [https://www.britishhops.org.uk/varieties/east-kent-goldings/](https://www.britishhops.org.uk/varieties/east-kent-goldings/) EKG - classic English Hop for Pales.
-
 - 16g Styrian Golding (am using Celeia which is an offspring) at flame out
-
 1 hour boil
-
 
 ## Cool
 
