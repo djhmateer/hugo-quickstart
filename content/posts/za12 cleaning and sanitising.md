@@ -14,7 +14,6 @@ So lets deep clean the kegs then, and be more vigilant in the brewing process. P
 
 [https://www.youtube.com/watch?v=8p6CmLoj0eo](https://www.youtube.com/watch?v=8p6CmLoj0eo) The Malt Miller overview on products is excellent.
 
-
 - Sodium percarbonate based cleaners - eg PBW (use for cleaning)
 - Phosphoric acid based sanitisers - eg Star San / Chem San (use for sanitising anything wort touches after boil)
 - Make stainless stell shiny
@@ -44,7 +43,6 @@ over 40 degrees is best
 soak from a few minutes to overnight
 
 it does need rinsing
-
 
 ## Clean Keg Process and Brew System
 
@@ -124,8 +122,4 @@ dont use as may leave fragrances.. and unsuitable for getting rid of proteins an
 avoid using cleaners (soap).. useful for glass
 
 most homebrewers only use this for glass bottle cleaning
-
-
-
-
 
