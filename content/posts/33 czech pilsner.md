@@ -55,7 +55,7 @@ OG was 1030 in the grainfather. - was aiming for 1046, so added 400g of sugar an
 
 Fermenting at 13 degrees.
 
-FG was xxx
+FG was 1008 on 4th Aug. so 2.5 weeks fermenting
 
 ## Condition
 
