@@ -51,13 +51,16 @@ yeast is Lalbrew Verdant IPA [info](https://beermaverick.com/yeast/lallemand-lal
 
 pitch at low end eg 18-19 degrees. Fermenting at room temp
 
-FG 
 
-## Condition
+## Keg and Condition
 
+FG around 1012
+
+After 1 month. Keg at 45psi for 1 day.
 
 ## Drink
 
+Lovely beer that isn't too strong. Very sessionable.
 
 
 ## next time

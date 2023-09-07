@@ -29,12 +29,7 @@ No water treatment as am doing a split brew - want to check my water treatment b
 - Temp - 65C 
 - Time - 1 hour 
 
-## Sparge
-asdf
-
-
 ## Boil
-
 
 - Saaz at start
 - 1 Protafloc tablet (3g) at 15mins
@@ -62,6 +57,10 @@ FG was 1008 on 4th Aug. so 2.5 weeks fermenting
 At 3 degrees
 
 ## Drink
+
+6 weeks later. It's still cloudy. But on 2nd Sept it is coming good. previous to that there was a fruity taste which I didn't like. Maybe just young beer.
+
+In the fridge and not shaking up the keg is good way to serve.
 
 
 ## Next time

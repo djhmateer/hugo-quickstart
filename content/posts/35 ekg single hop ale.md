@@ -60,41 +60,15 @@ pitched at 31 degrees, and fermenting at room temp (garage)
 
 Should have been Wyeast 1056 american ale. I've used Kveik.
 
+## Keg
 
+1 month of fermenting on 5th September. FG was 1002 or 1004. Wow the Kveik attenuates really highly.
 
+Also put some in bottles.
 
+Keg at 45psi to carbonate in 24 hours.
 
-
-
-
-
-
-- Saaz at start
-- 1 Protafloc tablet (3g) at 15mins
-
-1 hour boil
-
-## Cool
-
-got to around outside temp - 18 ish with the cooler
-
-leaving other 12 litres to cool naturally in fermentation bucket, and pitch around this temp.
-
-## Ferment 
-
-OG was fine in BIAB at around 1046
-
-OG was 1030 in the grainfather. - was aiming for 1046, so added 400g of sugar and this brought it up to 1040
-
-Fermenting at 13 degrees.
-
-FG was xxx
-
-## Condition
-
-At 3 degrees
-
-## Drink
+Quite sweet... and strong!
 
 
 
