@@ -52,4 +52,8 @@ dried was probably 25g
 
 got 20g of dried hops
 
+## 2023 harvest
+
+26th September - a bit late as they were getting brown. Also not as much sun as previous years as garden getting overgrown.
+
 
