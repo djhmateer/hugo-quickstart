@@ -18,3 +18,5 @@ room temperature
 1 month later and still fermenting a bit?
 
 It does taste lovely after 1 day at 45psi to carb it. Now at 15psi for serving.
+
+6 weeks later and the keg is finished. It came really good around 5 weeks.

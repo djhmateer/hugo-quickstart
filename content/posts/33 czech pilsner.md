@@ -62,6 +62,11 @@ At 3 degrees
 
 In the fridge and not shaking up the keg is good way to serve.
 
+8 weeks and really good. Everybody's favourite at my party! First one to get finished.
+
+Interestingly the fruity flavours I was worried about were just young beer. 
+
+The split brew was good - people preferred the beer made in the Grainfather.
 
 ## Next time
 

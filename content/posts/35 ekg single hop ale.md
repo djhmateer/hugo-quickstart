@@ -70,5 +70,7 @@ Keg at 45psi to carbonate in 24 hours.
 
 Quite sweet... and strong!
 
+6 weeks later and all finished. Really got better around 5 - 6 weeks.
+
 
 

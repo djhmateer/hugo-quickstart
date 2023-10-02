@@ -60,7 +60,7 @@ After 1 month. Keg at 45psi for 1 day.
 
 ## Drink
 
-Lovely beer that isn't too strong. Very sessionable.
+Lovely beer that isn't too strong. Very sessionable. Getting good around 5 - 6 weeks.
 
 
 ## next time

@@ -18,3 +18,5 @@ room temperature
 It still is fermenting 1 month later.
 
 Very tasty beer (and strong) a bit cloudy.
+
+This beer needs more time to condition for sure.
