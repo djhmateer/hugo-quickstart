@@ -44,8 +44,7 @@ Should be 90 mins. Will be 65 mins
 
 OG should should be 1063
 
-Yeast is SafAle BE-256
-
+Yeast is [SafAle BE-256](https://fermentis.com/en/product/safale-be-256/) at temp controlled 20c then up to 22 over next 4 days.
 
 ## Keg
 
