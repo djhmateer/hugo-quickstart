@@ -60,6 +60,8 @@ then diacetyl rest at 22c
 
 ## Dry Hop
 
+Typically day 4 or 5. I'm doing day 6 - Mon 9th Oct.
+
 - dry hop Simcoe 80g
 - dry hop Centennial 40g
 
@@ -73,6 +75,8 @@ be really careful to filter or not get detrius into keg
 ## Next time
 
 Sanitise grainfather before starting - it was thoroughly cleaned.
+
+dry hop get ready with a magnet to drop after 4 or 5 days so don't have to open ferenter.
 
 
 
