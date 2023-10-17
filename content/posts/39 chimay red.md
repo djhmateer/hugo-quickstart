@@ -46,6 +46,8 @@ OG should should be 1063
 
 Yeast is [SafAle BE-256](https://fermentis.com/en/product/safale-be-256/) at temp controlled 20c then up to 22 over next 4 days.
 
+16th Oct - have turned off the heat in the fridge, and am now letting it cold condition as temperatures outside are around 3 degrees to 12 degrees.
+
 ## Keg
 
 
