@@ -48,6 +48,9 @@ Yeast is [SafAle BE-256](https://fermentis.com/en/product/safale-be-256/) at tem
 
 16th Oct - have turned off the heat in the fridge, and am now letting it cold condition as temperatures outside are around 3 degrees to 12 degrees.
 
+Cold crashing at 3 weeks (3 degrees)
+
+
 ## Keg
 
 
