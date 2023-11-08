@@ -45,6 +45,8 @@ Ferment at 12 degrees
 
 Condition 4 wweeks at 3 degrees
 
+2 weeks and 2 days it is still fermenting
+
 
 ## Keg
 

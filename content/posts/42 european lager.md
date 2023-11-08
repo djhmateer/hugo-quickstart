@@ -42,6 +42,12 @@ SafLager W-34/70 yeast
 
 Ferment at 14 degrees
 
+Am fermenting at outside temps which is around 7 - 14 degrees.
+
+2 weeks and 2 days and it is still fermenting.
+
+
+
 Condition 4 wweeks at 3 degrees
 
 

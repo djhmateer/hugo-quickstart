@@ -65,11 +65,13 @@ Typically day 4 or 5. I'm doing day 6 - Mon 9th Oct.
 - dry hop Simcoe 80g
 - dry hop Centennial 40g
 
-3 day cold crash at end of fermentation?
+3 day cold crash at end of fermentation (actually did 16 day cold crash)
 
 be really careful to filter or not get detrius into keg
 
 ## Keg
+
+Kegged on 8th Nov, and put in around 20 psi of CO2
 
 
 ## Next time
