@@ -73,6 +73,8 @@ be really careful to filter or not get detrius into keg
 
 Kegged on 8th Nov, and put in around 20 psi of CO2
 
+12th Dec - a bit over carbed for me, so leaving at lower pressure for a while.
+
 
 ## Next time
 

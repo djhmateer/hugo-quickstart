@@ -53,6 +53,10 @@ Cold crashing at 3 weeks (3 degrees)
 
 ## Keg
 
+12th Dec. FG is 1010.
+
+Tasted a bit thin so leaving.
+
 
 ## Next time
 

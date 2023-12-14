@@ -50,6 +50,9 @@ Condition 4 wweeks at 3 degrees
 
 ## Keg
 
+12th Dec - I think this is the smaller amount one.. look for flaked rice in trub.
+
+
 
 ## Next time
 
