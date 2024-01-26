@@ -11,4 +11,9 @@ draft: true
 
 - poppet inside the post - 3 feet need to take apart?
 
+force carb beer
+
+about 30psi for 24 hours
+cold is good
+
 

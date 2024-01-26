@@ -53,6 +53,7 @@ Condition 4 wweeks at 3 degrees
 
 ## Keg
 
+This is more preferable over the american lager.
 
 ## Next time
 
