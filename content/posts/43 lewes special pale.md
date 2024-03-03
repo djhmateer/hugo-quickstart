@@ -4,6 +4,7 @@ date: 2024-02-27
 draft: false 
 ---
 <!-- [![pot](/images/2023-06-06/3.jpg "treatment")](/images/2023-06-06/3.jpg) -->
+[![pot](/images/2024-03-03/1.jpg "treatment")](/images/2024-03-03/1.jpg)
 
 With Richard (at his house) and Graham
 
