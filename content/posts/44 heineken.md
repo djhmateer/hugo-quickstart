@@ -12,7 +12,6 @@ This is a 4.5% Heineken clone and I'm making around 44 litres in 2 batches.
 
 [Brewers Friend](https://www.brewersfriend.com/homebrew/recipe/view/653323/heineken-lager-clone)
 
-
 ## Mash
 
 Below 2nd batch figures are in brackets.
@@ -45,7 +44,9 @@ Ferment at 13 degrees (lower end of range for more traditional lager character)
 
 Am fermenting both batches at 14 degrees in fridge. Lows are 8 degrees at night, but with fermentation and in a garage, I'm thinking this will be fine without the heater plugged in.
 
-Condition 4 weeks at 3 degrees
+2 weeks - finsihed fermenting, and I took it to LBH. Carbed it up and it was good! Look reasonable too
+
+Condition for 10 more days and had to take out of fridge to make room for more lager
 
 
 

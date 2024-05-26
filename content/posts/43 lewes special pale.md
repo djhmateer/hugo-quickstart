@@ -48,3 +48,7 @@ In fermenter on Tue 27th Feb with OG of 1048
 Thu 29th am was 1040 (slow to start)
 
 On Sun 3rd March (Day 5) it is 1016. Raising temp from 19 to 21 and aiming for FG of 1011.
+
+[![pot](/images/2024-05-24/1.jpg "drink")](/images/2024-05-26/1.jpg)
+
+On the 14th May - it was a good beer!
