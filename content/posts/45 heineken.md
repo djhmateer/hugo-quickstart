@@ -37,19 +37,11 @@ Next time use my sparge water boiler to speed up!
 - Hallertauer 11g at 10 min
 
 
-1042 (1042) OG - which is perfect. At 23 litres. So will be 4.5%.
+1050 at 25 litres. Added an extra 5 litres, so will be about right hitting 1042 goal.
 
 ## Cool and ferment
 
-SafLager W-34/70 (SafLager S-23) yeast
-
-Ferment at 13 degrees (lower end of range for more traditional lager character)
-
-Am fermenting both batches at 14 degrees in fridge. Lows are 8 degrees at night, but with fermentation and in a garage, I'm thinking this will be fine without the heater plugged in.
-
-2 weeks - finsihed fermenting, and I took it to LBH. Carbed it up and it was good! Look reasonable too
-
-Condition for 10 more days and had to take out of fridge to make room for more lager
+Ferment at 14 degrees (lower end of range for more traditional lager character)
 
 
 
