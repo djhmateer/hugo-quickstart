@@ -40,13 +40,13 @@ The bottom rubber seal is coming off when I'm stirring the grains in the mash. 2
 
 SafLager W-34/70 (SafLager S-23) yeast
 
-Ferment at 13 degrees (lower end of range for more traditional lager character)
-
 Am fermenting both batches at 14 degrees in fridge. Lows are 8 degrees at night, but with fermentation and in a garage, I'm thinking this will be fine without the heater plugged in.
 
 2 weeks - finsihed fermenting, and I took it to LBH. Carbed it up and it was good! Look reasonable too
 
-Condition for 10 more days and had to take out of fridge to make room for more lager
+Condition for 10 more days at 3 degrees and had to take out of fridge to make room for more lager to ferment.
+
+Next time I need to put straight into kegs and purge, as there is a possibility I got oxygen sucked into the fermenting bucket when taking out the fridge.
 
 
 
