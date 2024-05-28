@@ -44,6 +44,18 @@ Next time use my sparge water boiler to speed up!
 Ferment at 14 degrees (lower end of range for more traditional lager character)
 
 
+## Next Time
+
+water treatment (neutral?) for crisp pale beer. Richard did:
+
+added to water the night before
+0.5 teaspoon of sea salt
+2 x Camden .. Sodium metabisulphite
+   to take out Chloromode 
+8ml ams 
+2 teaspoon gypsum
+
+
 
 
 
