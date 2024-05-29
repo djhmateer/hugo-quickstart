@@ -49,11 +49,15 @@ Ferment at 14 degrees (lower end of range for more traditional lager character)
 water treatment (neutral?) for crisp pale beer. Richard did:
 
 added to water the night before
-0.5 teaspoon of sea salt
-2 x Camden .. Sodium metabisulphite
-   to take out Chloromode 
-8ml ams 
-2 teaspoon gypsum
+- 0.5 teaspoon of sea salt
+- 2 x Camden .. Sodium metabisulphite to take out Chloromode 
+- 8ml ams 
+- 2 teaspoon gypsum
+
+
+AMS (CRS) / Lactic acid: 8ml for 20 litres [Malt Miller](https://www.themaltmiller.co.uk/product/ams-crs-500ml/)
+
+DWB: 10g for 20 litres in the mash [Malt Miller](https://www.themaltmiller.co.uk/product/dwb-500g/)
 
 
 
