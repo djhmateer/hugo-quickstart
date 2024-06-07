@@ -43,7 +43,9 @@ Next time use my sparge water boiler to speed up!
 
 Ferment at 14 degrees (lower end of range for more traditional lager character)
 
+Mon 3rd (Day 8) took out of fridge at 14 into outside temps. Max 24?. 
 
+Thu 6th (Day 14) was still bubbling
 
 
 

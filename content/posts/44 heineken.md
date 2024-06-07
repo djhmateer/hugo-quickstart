@@ -49,6 +49,9 @@ Am fermenting both batches at 14 degrees in fridge. Lows are 8 degrees at night,
 Condition for 10 more days and had to take out of fridge to make room for more lager
 
 
+## Carbonation
+
+4 days at 35 psi and 3 degrees - but not fully connected. Top up every day. Pressure dropping from 0 to 15 psi (maybe small leak)
 
 
 
