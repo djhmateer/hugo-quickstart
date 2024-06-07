@@ -61,24 +61,7 @@ DWB: 10g for 20 litres in the mash [Malt Miller](https://www.themaltmiller.co.uk
 
 Mon 3rd (Day 8) took out of fridge at 14 into outside temps. Max 24?. 
 
-## Next Time
-
-water treatment (neutral?) for crisp pale beer. Richard did:
-
-added to water the night before
-- 0.5 teaspoon of sea salt
-- 2 x Camden .. Sodium metabisulphite to take out Chloromode 
-- 8ml ams 
-- 2 teaspoon gypsum
-
-
-AMS (CRS) / Lactic acid: 8ml for 20 litres [Malt Miller](https://www.themaltmiller.co.uk/product/ams-crs-500ml/)
-
-DWB: 10g for 20 litres in the mash [Malt Miller](https://www.themaltmiller.co.uk/product/dwb-500g/)
-
-Mon 3rd (Day 8) took out of fridge at 14 into outside temps. Max 24?. 
-
-Thu 6th (Day 14) was still bubbling
+Thu 6th (Day 14) was still bubbling very slowly
 
 
 
