@@ -54,7 +54,6 @@ added to water the night before
 - 8ml ams 
 - 2 teaspoon gypsum
 
-
 AMS (CRS) / Lactic acid: 8ml for 20 litres [Malt Miller](https://www.themaltmiller.co.uk/product/ams-crs-500ml/)
 
 DWB: 10g for 20 litres in the mash [Malt Miller](https://www.themaltmiller.co.uk/product/dwb-500g/)
