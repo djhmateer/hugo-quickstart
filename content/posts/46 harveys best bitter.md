@@ -13,19 +13,22 @@ Aiming for a 4% Harveys style / best bitter beer. The yeast I'm using is a [Lalb
 
 Inspired by both these recipes
 
-[https://www.brewersfriend.com/homebrew/recipe/view/1151559/harveys-clone#](https://www.brewersfriend.com/homebrew/recipe/view/1151559/harveys-clone#)
-
+[https://www.brewersfriend.com/homebrew/recipe/view/1151559/harveys-clone#](https://www.brewersfriend.com/homebrew/recipe/view/1151559/harveys-clone#) - big thanks to Andy.
 
 [https://www.themaltmiller.co.uk/product/sussex-best-bitter-clone/?v=79cba1185463](https://www.themaltmiller.co.uk/product/sussex-best-bitter-clone/?v=79cba1185463)
 
-Harveys is one of my local breweries. Next time I'm there I need to pay more attention on the brewery tour!
+Harveys is one of my local breweries. Next time I'm there I need to pay more attention to Miles on the amazing brewery tour!
 
 ## Mash
 
-- Lager malt - 5kg 
+- Extra Pale Malt - 5kg 
 - Extra Dark crystal malt - 354g
 - Maize flaked - 265g
 - Oats - 650g
+
+[![pot](/images/2024-06-07/4.jpg "foo")](/images/2024-06-07/4.jpg)
+
+[![pot](/images/2024-06-07/5.jpg "foo")](/images/2024-06-07/5.jpg)
 
 Not use grate on top 
 
@@ -35,9 +38,10 @@ Using sparge water boiler too
 
 Stirring once during the mash.
 
+[![pot](/images/2024-06-07/3.jpg "foo")](/images/2024-06-07/3.jpg)
 ## Boil
 
-Aiming for OG of 1040 ish at 30 litres output.
+Aiming for OG of 1040 ish at 30 litres output. Fill to the brim (careful over frothing)
 
 - Bramling Cross 7% alpha acid (should have been Progress 6.2% - 34g ) - 31g (aa adjust) - start of boil
 - Bramling Cross - 34g - 30 mins
@@ -46,11 +50,20 @@ Aiming for OG of 1040 ish at 30 litres output.
 
 Protofloc at 15 mins
 
+Keep filling to brim
+
 ## Whirlpool / Hop stand
 
 20 minutes
 
 Then cool.
+
+Came out at 1045 at 29 litres.   So I need 1 / 9 more water to get down to 1040. ie 3 litres more.
+
+
+[![pot](/images/2024-06-07/6.jpg "foo")](/images/2024-06-07/6.jpg)
+
+End of the boil
 
 ## Ferment
 
@@ -64,6 +77,4 @@ Buy water additions
 Do something with water so I don't have to lift it.
 
 Do a full load of sparge water ie 15 litres or more?
-
-
 
