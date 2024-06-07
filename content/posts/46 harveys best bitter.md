@@ -63,18 +63,28 @@ Came out at 1045 at 29 litres.   So I need 1 / 9 more water to get down to 1040.
 
 [![pot](/images/2024-06-07/6.jpg "foo")](/images/2024-06-07/6.jpg)
 
-End of the boil
+End of the boil - habe been topping up with sparge water. This gave me about 29 litres.
 
 ## Ferment
 
 Day temps around 24 in the garage, and night around 10.
 
+## Clean Up
+
+Was nice to do a proper clean and the morning sun was good. Maybe start at 0500 next time.
+
+Started at 0600 and finished at 1200.
+
 
 ## Next Time
 
+Start earlier?
+
+Double brew day?
+
 Buy water additions
 
-Do something with water so I don't have to lift it.
+Do something with water so I don't have to lift it in the morning.
 
 Do a full load of sparge water ie 15 litres or more?
 
