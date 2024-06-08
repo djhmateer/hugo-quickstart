@@ -88,3 +88,15 @@ Do something with water so I don't have to lift it in the morning.
 
 Do a full load of sparge water ie 15 litres or more?
 
+## Harveys
+
+[![pot](/images/2024-06-07/7.jpg "foo")](/images/2024-06-07/7.jpg)
+
+Miles Jenner - head brewer of Harveys.
+
+[![pot](/images/2024-06-07/8.jpg "foo")](/images/2024-06-07/8.jpg)
+
+[![pot](/images/2024-06-07/9.jpg "foo")](/images/2024-06-07/9.jpg)
+
+I'm using the right hops!
+
