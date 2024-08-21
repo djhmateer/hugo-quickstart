@@ -10,6 +10,9 @@ Whilst on holiday in Normandy the first local beers I found in the supermarket w
 
 Established in 1997 making traditional style beers.
 
+`Brasserie` - Brewery or more commonly a casual restaurant
+
+
 [![pot](/images/2024-08-21/2.jpg "foo")](/images/2024-08-21/2.jpg)
 
 Nice they put on `Houblons` - Hops, 
