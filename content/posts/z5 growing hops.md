@@ -56,4 +56,11 @@ got 20g of dried hops
 
 26th September - a bit late as they were getting brown. Also not as much sun as previous years as garden getting overgrown.
 
+## 2024 harvest
+
+3rd of September. Been a strange year (quite wet and not massive periods of sunshine. Not above 30 either). But a big harvest with hops going really high.
+
+[![20l](/images/2024-09-03/1.jpg "20l")](/images/2024-09-03/1.jpg)
+
+
 
