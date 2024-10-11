@@ -62,5 +62,7 @@ got 20g of dried hops
 
 [![20l](/images/2024-09-03/1.jpg "20l")](/images/2024-09-03/1.jpg)
 
+354g wet weight of the hops. Wow. That is 5x the amount of year 1. Will dry them, then use fairly soon for a brew.
+
 
 
