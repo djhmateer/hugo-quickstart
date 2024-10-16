@@ -29,9 +29,9 @@ With my full report on https://www.southernwater.co.uk/media/6538/zs536.pdf
 
 For pale ales I'm going with:
 
-AMS (CRS) / Lactic acid: 24ml for 20 litres [Malt Miller](https://www.themaltmiller.co.uk/product/ams-crs-500ml/)
+AMS (CRS) / Lactic acid: 24ml for 20 litres [Malt Miller](https://www.themaltmiller.co.uk/product/ams-crs-500ml/) **this is very wrong**
 
-DWB: 10g for 20 litres in the mash [Malt Miller](https://www.themaltmiller.co.uk/product/dwb-500g/)
+DWB: 10g for 20 litres in the mash [Malt Miller](https://www.themaltmiller.co.uk/product/dwb-500g/) **this is very wrong**
 
 
 For Stouts lower on the AMS - (see Pauls spreadsheet.)
