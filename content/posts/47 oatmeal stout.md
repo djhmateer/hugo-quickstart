@@ -50,18 +50,24 @@ Protofloc at 15mins
 
 Hopstand at 0930
 
+## Clean
+
+Use Sodium percarbonate based cleaners ie PBW
+
+Was all done by 1050. Around 3.5 hours.
+
+
 ## Ferment
 
 OG was 1048 at 20
 
 I've got a Kveik, but want a traditional stout, so lets try it at 25 degrees which is the min to have less fruity flavours. [Voss Lalbrew](https://www.murphyandson.co.uk/wp-content/uploads/2020/01/TDS_LPS_BREWINGYEAST_VOSS_ENG_A4.pdf). 5 to 7 days it says at this temp
 
+It fermented out to 1014 in 30 hours. I'll leave it a few more days in the fermenter to see if any more activity. Have taken out of 25 degrees and is now at outside temps.
 
-## Clean
+## Condition
 
-Use Sodium percarbonate based cleaners ie PBW
-
-Was all done by 1050. Around 3.5 hours.
+Want to put some in bottles, and rest in keg.
 
 
 
