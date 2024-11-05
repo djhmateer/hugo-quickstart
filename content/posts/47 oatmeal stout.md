@@ -69,6 +69,7 @@ It fermented out to 1014 in 30 hours. I'll leave it a few more days in the ferme
 
 Want to put some in bottles, and rest in keg.
 
+Okay this is a great beer! Drinking after 2 weeks is fine. Only getting better.
 
 
 ## TODO
