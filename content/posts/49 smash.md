@@ -11,6 +11,8 @@ Working on process
 - starsan bucket to dip everything into
 - 0.5 campden tablet in grainfather and 0.5 in sparge water header to get rid of chlorine and chloromine
 
+[Brewfather recipe](https://share.brewfather.app/q8GvYyQJCno0dO)
+
 ## Water Profile
 
 - AMS (Acid Malt Solution) - 0.2ml per litre.  (this tallies with longman who did equivalent of 3.3ml) so 4ml for 20 litres

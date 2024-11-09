@@ -71,6 +71,10 @@ Want to put some in bottles, and rest in keg.
 
 Okay this is a great beer! Drinking after 2 weeks is fine. Only getting better.
 
+After 3 weeks it is nearly gone!
+
+
+
 
 ## TODO
 

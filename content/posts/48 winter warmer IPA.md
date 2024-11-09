@@ -53,4 +53,6 @@ I then found my fermenter had a leak. So had to transfer to another one (introdu
 
 I dry hopped on day 6 and on day 11 it is still fermenting. 5 days of dry hopping so far.
 
+Kegged on day 11 as 5 days dry hopping is plenty. Tasted it whilst transferring and it is lovely.
+
 
