@@ -6,6 +6,22 @@ draft: false
 
 Major update in Nov 2024.
 
+## Peter Recomendations / Stragegy
+
+[summary on thehomebrewforum.co.uk](https://www.thehomebrewforum.co.uk/threads/beginners-guide-to-water-treatment-plus-links-to-more-advanced-water-treatment-in-post-1.64822/)
+
+> Basically get rid of any chlorine, make sure your mash pH hits around 5.2 and your pretty much home and dry.
+
+Use a [Salifert type kit](https://www.amazon.co.uk/gp/product/B001EJ3DOG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+
+
+[Jims Beer Kit](https://www.jimsbeerkit.co.uk/water.html) Liquor Treatment calculator
+
+**DO this** and also try Brewfather water calc.
+
+
+## Intro
+
 What is water treatment for beer?
 
 [How to Brew](https://www.amazon.co.uk/How-Brew-Everything-Great-Every/dp/1938469356) says that firstly you need to consider:
@@ -48,20 +64,6 @@ This is from Paul and the recommendations:
 - Cl - 40.8	
 - SO4 - 22.2	
 - HCO3 - 257.0
-
-## Peter Reccomendations / Stragegy
-
-[summary on thehomebrewforum.co.uk](https://www.thehomebrewforum.co.uk/threads/beginners-guide-to-water-treatment-plus-links-to-more-advanced-water-treatment-in-post-1.64822/)
-
-> Basically get rid of any chlorine, make sure your mash pH hits around 5.2 and your pretty much home and dry.
-
-Use a [Salifert type kit](https://www.amazon.co.uk/gp/product/B001EJ3DOG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
-
-
-[Jims Beer Kit](https://www.jimsbeerkit.co.uk/water.html) Liquor Treatment calculator
-
-**DO this** and also try Brewfather water calc.
-
 
 
 ## Additions Nov 2024
