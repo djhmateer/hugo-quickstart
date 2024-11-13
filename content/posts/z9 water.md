@@ -4,6 +4,8 @@ date: 2022-11-14
 draft: false
 ---
 
+Major update in Nov 2024.
+
 What is water treatment for beer?
 
 [How to Brew](https://www.amazon.co.uk/How-Brew-Everything-Great-Every/dp/1938469356) says that firstly you need to consider:
@@ -47,7 +49,7 @@ This is from Paul and the recommendations:
 - SO4 - 22.2	
 - HCO3 - 257.0
 
-## Peter Reccomendations Stragegy
+## Peter Reccomendations / Stragegy
 
 [summary on thehomebrewforum.co.uk](https://www.thehomebrewforum.co.uk/threads/beginners-guide-to-water-treatment-plus-links-to-more-advanced-water-treatment-in-post-1.64822/)
 
@@ -64,9 +66,9 @@ Use a [Salifert type kit](https://www.amazon.co.uk/gp/product/B001EJ3DOG/ref=ppx
 
 ## Additions Nov 2024
 
-- Campden tablets (Sodium Metabisulphite) - remove chlorine and chloramine from tap water. 0.5 tablet in 30 litres is fine.
+Campden tablets (Sodium Metabisulphite) - remove chlorine and chloramine from tap water. 0.5 tablet in 30 litres is fine.
 
-- Protafloc (Irish Moss). Use in last 15mins of boil to produce clear wort. For most brews (not NEIPA's!)
+Protafloc (Irish Moss). Use in last 15mins of boil to produce clear wort. For most brews (not NEIPA's!)
 
 
 ### Bitters IPAs and Pales
@@ -89,23 +91,24 @@ Soft water (like Pilsen)
 - Calcium Sulfate / Gypsum (CaSO4)
 
 ## ChatGPT
+
 These salts are typically added as dissolved minerals, contributing specific ions to the brewing water. Each salt dissociates into ions when it dissolves, affecting the beer's flavor, clarity, and chemistry.
 
 Here’s a breakdown:
 
-1. **Calcium Chloride (CaCl₂):** Dissociates into calcium (Ca²⁺) and chloride (Cl⁻) ions.
+**Calcium Chloride (CaCl₂):** Dissociates into calcium (Ca²⁺) and chloride (Cl⁻) ions.
    - **Calcium** helps with yeast health and clarity.
    - **Chloride** enhances mouthfeel and sweetness.
 
-2. **Magnesium Sulfate / Epsom Salt (MgSO₄):** Dissociates into magnesium (Mg²⁺) and sulfate (SO₄²⁻) ions.
+**Magnesium Sulfate / Epsom Salt (MgSO₄):** Dissociates into magnesium (Mg²⁺) and sulfate (SO₄²⁻) ions.
    - **Magnesium** is needed in small amounts for yeast health.
    - **Sulfate** accentuates hop bitterness and adds crispness.
 
-3. **Sodium Chloride / Canning Salt / Table Salt (NaCl):** Dissociates into sodium (Na⁺) and chloride (Cl⁻) ions.
+**Sodium Chloride / Canning Salt / Table Salt (NaCl):** Dissociates into sodium (Na⁺) and chloride (Cl⁻) ions.
    - **Sodium** adds a subtle fullness to the flavor (used sparingly).
    - **Chloride** contributes to mouthfeel and sweetness.
 
-4. **Calcium Sulfate / Gypsum (CaSO₄):** Dissociates into calcium (Ca²⁺) and sulfate (SO₄²⁻) ions.
+**Calcium Sulfate / Gypsum (CaSO₄):** Dissociates into calcium (Ca²⁺) and sulfate (SO₄²⁻) ions.
    - **Calcium** aids in mash stability and enzyme activity.
    - **Sulfate** can emphasize hop bitterness.
 
@@ -118,22 +121,16 @@ Adjusting these salts in your brewing water allows you to achieve the desired fl
 
 suitable pH for mashing is 5.4
 
-
 - Lactic Acid 
 - AMS (CRS) - Acid Malt Solution - Hydrochloric Acid (HCl). 
       and Sulfuric Acid (H2SO4)
-
 - Citric Acid - just for a fruity flavour
 
 ascorbic acid in NEIPAs when bottling to minimize oxidation 0.2g?
 
-
-
 ## Calculators
 
 [https://www.brewersfriend.com/water-chemistry/](https://www.brewersfriend.com/water-chemistry/)
-
-
 
 
 ## Additions OLD
