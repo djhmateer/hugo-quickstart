@@ -6,7 +6,7 @@ draft: false
 
 Major update in Nov 2024.
 
-## Peter Recommendations / Stragegy
+## Peter Recommendations / Strategy
 
 [summary on thehomebrewforum.co.uk](https://www.thehomebrewforum.co.uk/threads/beginners-guide-to-water-treatment-plus-links-to-more-advanced-water-treatment-in-post-1.64822/)
 
