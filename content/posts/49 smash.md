@@ -30,7 +30,6 @@ Am doing a split batch of 2 * 10 litres to test out hop additions
 - mashout at 78 for 10 mins (finish at 1220)
 
 ## Boil
-asdf
 
 1250 on the boil
 
@@ -47,57 +46,5 @@ Hopstand for 20mins
 
 OG was 1048
 
-19 degrees
-
-
-
-
-
-[https://photos.app.goo.gl/tuqrzoKq2VAnvagG9](https://photos.app.goo.gl/tuqrzoKq2VAnvagG9) Pepperpot brew day with Lewes home brew club!
-
-
-
-[https://share.brewfather.app/9o7ryhks55PhDo](https://share.brewfather.app/9o7ryhks55PhDo) Have now subscribed to brewfather (so could manage my inventory)
-
-
-
-Second runnings after we noticed the some good colour in what was coming out after the sparge! Lewes Home Brew club brew day at Pepperpot Brewery
-
-I boiled what I had and got 17.5 litres. At 1060 which is more than I thought it would be.
-
-
-IPA inspired by Tree House hazy IPA.
-
-[https://www.youtube.com/watch?v=4lxKaf_MeSQ](https://www.youtube.com/watch?v=4lxKaf_MeSQ)
-
-Which I'd found out about by
-
-[https://www.youtube.com/watch?v=zCbtk8QT8gE](https://www.youtube.com/watch?v=zCbtk8QT8gE)
-
-and
-
-[https://www.youtube.com/watch?v=cwziI4s5FFQ](https://www.youtube.com/watch?v=cwziI4s5FFQ)
-
-I like Northern Monk - Faith. Which is a similar style of beer.
-
-
-
-## Boil
-
-Boiled for 1 hour.
-
-Did hop additions.
-
-## Cool and Ferment
-
-I didn't use my chiller, so it took overnight to cool enough to pitch.
-
-I then found my fermenter had a leak. So had to transfer to another one (introducing O2)
-
-29th Oct pitched.
-
-## Dry Hop
-
-I dry hopped on day 6
-
+19 degrees on fridge.
 
