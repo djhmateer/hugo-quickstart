@@ -14,10 +14,24 @@ Major update in Nov 2024.
 
 Use a [Salifert type kit](https://www.amazon.co.uk/gp/product/B001EJ3DOG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
-
 [Jims Beer Kit](https://www.jimsbeerkit.co.uk/water.html) Liquor Treatment calculator
 
-**DO this** and also try Brewfather water calc.
+**DO this** and also try Brewfather water calc. Along with [Salifert](https://www.amazon.co.uk/gp/product/B001EJ3DOG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) alkalinity test I've got coming.
+
+### Peter Recommendations continued
+
+[conclusion of paper](https://www.braukaiser.com/wiki/index.php/Effects_of_mash_parameters_on_fermentability_and_efficiency_in_single_infusion_mashing#pH) illustrates why 
+after time and temperature, mash pH can have a material impact on fermentability. 
+ 
+Missing the optimal mash pH (and it's quite easy to over/undershoot when adding AMS/CRS) will result in a less fermentable wort and could explain why some fermentations get stuck despite hitting the desired mash temperature and time. I noticed Longman checked their mash pH when we had the brew day with them.
+ 
+The tricky bit for home brewers is getting an accurate pH measurement. A decent digital pH meter will set you back around £180 and even then it requires frequent calibration. I use the narrow range test papers (when I remember ) which at least lets me know if I'm miles off target. Don't waste your money on the cheap eBay Chinese meters
+
+
+## More Research
+
+
+[https://shop.theelectricbrewery.com/pages/water-adjustment](https://shop.theelectricbrewery.com/pages/water-adjustment) good book?
 
 
 ## Intro
