@@ -7,7 +7,7 @@ draft: false
 <!-- [![pot](/images/2024-06-07/1.jpg "foo")](/images/2024-06-07/1.jpg) -->
 
 
-[Brewfather recipe](https://share.brewfather.app/LaAKSKWSkeweUU) which 
+[Brewfather recipe](https://share.brewfather.app/LaAKSKWSkeweUU)
 
 [![pot](/images/2024-11-25/1.jpg "foo")](/images/2024-11-25/1.jpg)
 
@@ -15,7 +15,7 @@ draft: false
 
 I've not got a pH test
 
-Got KH value of 10.9 (very hard - which feels right) from my [salifert]() test kit
+Got KH value of 10.9 (very hard - which feels right) from my [Salifert type kit](https://www.amazon.co.uk/gp/product/B001EJ3DOG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) 
 
 [https://www.jimsbeerkit.co.uk/water.html](https://www.jimsbeerkit.co.uk/water.html) - but couldn't understand
 
@@ -34,12 +34,9 @@ It did show original tap pH of 7.2 whereas tap in Lewes was 6.8.
 - mash at 68 for 60mins
 - mashout at 78 for 10 mins 
 
-## Boil
-
 ## Ferment
 
 OG was 1042
-
 
 
 
