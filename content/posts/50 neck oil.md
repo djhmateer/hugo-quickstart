@@ -65,3 +65,11 @@ First time using this technique
 [![pot](/images/2024-11-25/8.jpg "foo")](/images/2024-11-25/8.jpg)
 
 cooler connector is always popping off - threads don't do up properly. Need to fix.
+
+## Next Time
+
+try and fix connector
+
+get campden tablets
+
+look at base water profile in Brewfather.
