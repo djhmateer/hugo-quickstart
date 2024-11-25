@@ -7,7 +7,9 @@ draft: false
 <!-- [![pot](/images/2024-06-07/1.jpg "foo")](/images/2024-06-07/1.jpg) -->
 
 
-[Brewfather recipe]()
+[Brewfather recipe](https://share.brewfather.app/LaAKSKWSkeweUU) which 
+
+[![pot](/images/2024-11-25/1.jpg "foo")](/images/2024-11-25/1.jpg)
 
 ## Water Profile
 
@@ -34,20 +36,10 @@ It did show original tap pH of 7.2 whereas tap in Lewes was 6.8.
 
 ## Boil
 
-1250 on the boil
-
-- 23g Tettnang at 60 mins
-- 1 Protofloc at 15 mins
-- 15g Tettnang at 10 mins
-
-- no extra hops in batch A
-- 10g of EKG in batch B (so going to 1.3g/litre ish)
-
-Hopstand for 20mins
-
 ## Ferment
 
-OG was 1048
+OG was 1042
 
-19 degrees on fridge.
+
+19 degrees in fridge.
 
