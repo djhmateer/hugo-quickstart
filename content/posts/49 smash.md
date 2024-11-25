@@ -48,3 +48,6 @@ OG was 1048
 
 19 degrees on fridge.
 
+[![pot](/images/2024-11-25/5.jpg "foo")](/images/2024-11-25/5.jpg)
+
+Successful oxygenless transfer into the out pipe of the corny which has been flushed with CO2.

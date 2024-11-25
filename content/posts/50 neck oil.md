@@ -41,5 +41,30 @@ It did show original tap pH of 7.2 whereas tap in Lewes was 6.8.
 OG was 1042
 
 
-19 degrees in fridge.
 
+
+[![pot](/images/2024-11-25/2.jpg "foo")](/images/2024-11-25/2.jpg)
+
+using big silver pot filled with sanitser starsan
+
+[![pot](/images/2024-11-25/3.jpg "foo")](/images/2024-11-25/3.jpg)
+
+Great day to brew in SE England in November (no ice to free the hose pipe)
+
+
+[![pot](/images/2024-11-25/4.jpg "foo")](/images/2024-11-25/4.jpg)
+
+Apparently these cheap pH meters are worthless! Got a reading on 5.1 (and Brewfather calculator gave me an estimate of 5.5 so in the same ballpark)
+
+
+[![pot](/images/2024-11-25/6.jpg "foo")](/images/2024-11-25/6.jpg)
+
+Hop bag going in on day 3 so have a magnet in this bag and one on the top of the fermenter.
+
+[![pot](/images/2024-11-25/7.jpg "foo")](/images/2024-11-25/7.jpg)
+
+First time using this technique
+
+[![pot](/images/2024-11-25/8.jpg "foo")](/images/2024-11-25/8.jpg)
+
+cooler connector is always popping off - threads don't do up properly. Need to fix.
