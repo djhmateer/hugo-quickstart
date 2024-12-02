@@ -3,15 +3,12 @@ title: Winter Warmer IPA - Brew 48
 date: 2024-10-16
 draft: false 
 ---
-
 <!-- [![pot](/images/2024-06-07/1.jpg "foo")](/images/2024-06-07/1.jpg) -->
 
 [https://photos.app.goo.gl/tuqrzoKq2VAnvagG9](https://photos.app.goo.gl/tuqrzoKq2VAnvagG9) Pepperpot brew day with Lewes home brew club!
 
 
-
 [https://share.brewfather.app/9o7ryhks55PhDo](https://share.brewfather.app/9o7ryhks55PhDo) Have now subscribed to brewfather (so could manage my inventory)
-
 
 
 Second runnings after we noticed the some good colour in what was coming out after the sparge! Lewes Home Brew club brew day at Pepperpot Brewery
@@ -34,7 +31,6 @@ and
 I like Northern Monk - Faith. Which is a similar style of beer.
 
 
-
 ## Boil
 
 Boiled for 1 hour.
@@ -55,4 +51,10 @@ I dry hopped on day 6 and on day 11 it is still fermenting. 5 days of dry hoppin
 
 Kegged on day 11 as 5 days dry hopping is plenty. Tasted it whilst transferring and it is lovely.
 
+FG 1022 - not sure why so high
+
+## Drinking
+
+
+Loving the hop balance with malt. Very drinkable (and much better than what I have in pubs)
 

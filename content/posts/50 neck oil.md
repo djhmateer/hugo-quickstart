@@ -66,6 +66,11 @@ First time using this technique
 
 cooler connector is always popping off - threads don't do up properly. Need to fix.
 
+## Condition
+
+9 days fermenting (1st Dec in Keg). 1012 FG. Smelled lovely.
+
+
 ## Next Time
 
 try and fix connector
