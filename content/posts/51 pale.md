@@ -49,3 +49,12 @@ OG was 1042
 
 19 degrees on fridge.
 
+## Todo better 
+
+Don't forget to put the filter under the big metal filter for the pump. It worked this time, but would like the extra filtration.
+
+I've maxxed out the fermenter at 25 litres which may be a problem when fermentation kicks off and frothing happens. Will deal with it. I needed to do this as used extra grain to finish a bag and didn't want a strong beer.
+
+Buy another fermenter which I can do oxygenless transfers.
+
+Sell my big burner. Maybe use it for sparge water to use up some gas?
