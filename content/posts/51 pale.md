@@ -47,7 +47,18 @@ saccharification rest — a balance point where both beta-amylase (which works b
 
 OG was 1042
 
+US-05 yeast
+
 19 degrees on fridge.
+
+
+[![pot](/images/2025-05-26/2.jpg "foo")](/images/2025-05-26/2.jpg)
+
+next day there was virtually no activity. The yeast I added was just in use by date, so I added another packet which has 2 more years left. I need this to ferment and condition for a party in 2.5 weeks.
+
+[![pot](/images/2025-05-26/1.jpg "foo")](/images/2025-05-26/1.jpg)
+
+New US-05 added on day 1.
 
 ## Todo better 
 
