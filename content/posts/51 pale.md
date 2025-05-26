@@ -4,6 +4,10 @@ date: 2025-05-25
 draft: false 
 ---
 
+[![pot](/images/2025-05-26/4.jpg "foo")](/images/2025-05-26/4.jpg)
+
+Choosing adjuncts.
+
 <!-- [![pot](/images/2024-06-07/1.jpg "foo")](/images/2024-06-07/1.jpg) -->
 
 Working on process
@@ -34,6 +38,8 @@ saccharification rest — a balance point where both beta-amylase (which works b
 - mashout at 78 for 10 mins 
 
 ## Boil
+
+[![pot](/images/2025-05-26/3.jpg "foo")](/images/2025-05-26/3.jpg)
 
 1235 on the boil
 
