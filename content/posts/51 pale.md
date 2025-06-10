@@ -65,12 +65,21 @@ next day there was virtually no activity. The yeast I added was just in use by d
 
 New US-05 added on day 1.
 
+## Condition
+
+After a bit less than 2 weeks in fermenter I cold crashed to 4 degrees for a few days, then transferred to the keg with no O2 (hopefully). Tasted very nice.
+
+FG: 1.010
+
+ABV: 4.2%
+
+
+
 ## Notes 
 
 Working on process - going very well to take my time!
 
 I've got a lot of beer to make for parties!
-
 
 Don't forget to put the filter under the big metal filter for the pump. It worked this time, but would like the extra filtration.
 
